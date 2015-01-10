@@ -1,0 +1,2193 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>2014–15 NBA season - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf12" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/2014%E2%80%9315_NBA_season" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/2014%E2%80%9315_NBA_season" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/2014%E2%80%9315_NBA_season" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"2014–15_NBA_season","wgTitle":"2014–15 NBA season","wgCurRevisionId":640952529,"wgRevisionId":640952529,"wgArticleId":42319036,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hCards","Articles lacking sources from October 2014","All articles lacking sources","2014–15 NBA season"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"2014–15_NBA_season","wgRelevantArticleId":42319036,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":4096,"namespacesWithSubpages":{"6":0,"8":0,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"9":true,"10":true,"11":true,"12":true,"13":true,"14":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"830":true,"831":true,"447":true,"2600":false,"828":true,"829":true}},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":["pl","en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q16191100"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf12/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-2014–15_NBA_season skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">2014–15 NBA season</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em;width: 25em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size: 113%; background: #DDDDDD; color: #000000">2014–15 NBA season</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">League</th>
+<td><a href="/wiki/National_Basketball_Association" title="National Basketball Association">National Basketball Association</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Sport</th>
+<td><a href="/wiki/Basketball" title="Basketball">Basketball</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Duration</th>
+<td>October 28, 2014 – April 15, 2015<br />
+April 18, 2015 – May or June 2015 (Playoffs)<br />
+June 4, 2015 – (Finals)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Number of games</th>
+<td>82</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Number of teams</th>
+<td>30</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">TV partner(s)</th>
+<td><a href="/wiki/NBA_on_ABC" title="NBA on ABC">ABC</a>, <a href="/wiki/NBA_on_TNT" title="NBA on TNT">TNT</a>, <a href="/wiki/NBA_on_ESPN" title="NBA on ESPN">ESPN</a>, <a href="/wiki/NBA_TV" title="NBA TV">NBA TV</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#DDDDDD"><a href="/wiki/2014_NBA_draft" title="2014 NBA draft">Draft</a></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="/wiki/List_of_first_overall_NBA_draft_picks" title="List of first overall NBA draft picks">Top draft pick</a></th>
+<td><a href="/wiki/Andrew_Wiggins" title="Andrew Wiggins">Andrew Wiggins</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Picked by</th>
+<td><a href="/wiki/Cleveland_Cavaliers" title="Cleveland Cavaliers">Cleveland Cavaliers</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#DDDDDD">Regular season</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Top seed</th>
+<td>TBD</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Season <a href="/wiki/NBA_Most_Valuable_Player_Award" title="NBA Most Valuable Player Award">MVP</a></th>
+<td>TBD</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="/wiki/List_of_National_Basketball_Association_season_scoring_leaders" title="List of National Basketball Association season scoring leaders">Top scorer</a></th>
+<td>TBD</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#DDDDDD"><a href="/wiki/2015_NBA_Playoffs" title="2015 NBA Playoffs" class="mw-redirect">Playoffs</a></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="/wiki/Eastern_Conference_(NBA)" title="Eastern Conference (NBA)">Eastern</a> champions</th>
+<td>TBD</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="/wiki/Western_Conference_(NBA)" title="Western Conference (NBA)">Western</a> champions</th>
+<td>TBD</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#DDDDDD"><a href="/wiki/2015_NBA_Finals" title="2015 NBA Finals" class="mw-redirect">Finals</a></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Champions</th>
+<td>TBD</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Finals MVP</th>
+<td>TBD</td>
+</tr>
+<tr class="noprint">
+<th colspan="2" style="text-align:center;background:#DDDDDD">NBA seasons</th>
+</tr>
+<tr class="noprint">
+<td colspan="2" style="text-align:center">
+<div style="float: left;"><a href="/wiki/2013%E2%80%9314_NBA_season" title="2013–14 NBA season">←&#160;2013–14</a></div>
+<div style="float: right;"><a href="/wiki/2015%E2%80%9316_NBA_season" title="2015–16 NBA season" class="mw-redirect">2015–16&#160;→</a></div>
+</td>
+</tr>
+</table>
+<p>The <b>2014–15 NBA season</b> is the 69th season of the <a href="/wiki/National_Basketball_Association" title="National Basketball Association">National Basketball Association</a> (NBA). The <a href="/wiki/2014_NBA_draft" title="2014 NBA draft">NBA draft</a> took place on June 26, 2014, at <a href="/wiki/Barclays_Center" title="Barclays Center">Barclays Center</a> in <a href="/wiki/Brooklyn" title="Brooklyn">Brooklyn</a>, where <a href="/wiki/Andrew_Wiggins" title="Andrew Wiggins">Andrew Wiggins</a> was selected first overall. The regular season began on Tuesday, October 28, 2014, when the defending NBA champions <a href="/wiki/San_Antonio_Spurs" title="San Antonio Spurs">San Antonio Spurs</a> hosted the first game against the <a href="/wiki/Dallas_Mavericks" title="Dallas Mavericks">Dallas Mavericks</a>. <a href="/wiki/National_Basketball_Association_Christmas_games" title="National Basketball Association Christmas games">Christmas games</a> will be played on Thursday, December 25, 2014. The <a href="/wiki/2015_NBA_All-Star_Game" title="2015 NBA All-Star Game">2015 NBA All-Star Game</a> will be played on Sunday, February 15, 2015, at <a href="/wiki/Madison_Square_Garden" title="Madison Square Garden">Madison Square Garden</a> in <a href="/wiki/New_York_City" title="New York City">New York City</a>. The regular season will end on Wednesday, April 15, 2015, and the playoffs will begin on Saturday, April 18, 2015.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Transactions"><span class="tocnumber">1</span> <span class="toctext">Transactions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Retirement"><span class="tocnumber">1.1</span> <span class="toctext">Retirement</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Free_agency"><span class="tocnumber">1.2</span> <span class="toctext">Free agency</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Coaching_changes"><span class="tocnumber">1.3</span> <span class="toctext">Coaching changes</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Offseason"><span class="tocnumber">1.3.1</span> <span class="toctext">Offseason</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="#In-Season"><span class="tocnumber">1.4</span> <span class="toctext">In-Season</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Preseason"><span class="tocnumber">2</span> <span class="toctext">Preseason</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Regular_season"><span class="tocnumber">3</span> <span class="toctext">Regular season</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Standings"><span class="tocnumber">3.1</span> <span class="toctext">Standings</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#By_division"><span class="tocnumber">3.1.1</span> <span class="toctext">By division</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#By_Conference"><span class="tocnumber">3.1.2</span> <span class="toctext">By Conference</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Statistics_leaders"><span class="tocnumber">4</span> <span class="toctext">Statistics leaders</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Individual_statistic_leaders"><span class="tocnumber">4.1</span> <span class="toctext">Individual statistic leaders</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Individual_game_highs"><span class="tocnumber">4.2</span> <span class="toctext">Individual game highs</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Team_statistic_leaders"><span class="tocnumber">4.3</span> <span class="toctext">Team statistic leaders</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Awards"><span class="tocnumber">5</span> <span class="toctext">Awards</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Players_of_the_week"><span class="tocnumber">5.1</span> <span class="toctext">Players of the week</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Players_of_the_month"><span class="tocnumber">5.2</span> <span class="toctext">Players of the month</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Rookies_of_the_month"><span class="tocnumber">5.3</span> <span class="toctext">Rookies of the month</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Coaches_of_the_month"><span class="tocnumber">5.4</span> <span class="toctext">Coaches of the month</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Playoffs"><span class="tocnumber">6</span> <span class="toctext">Playoffs</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Notable_occurrences"><span class="tocnumber">7</span> <span class="toctext">Notable occurrences</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Transactions">Transactions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=1" title="Edit section: Transactions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/List_of_2014%E2%80%9315_NBA_season_transactions" title="List of 2014–15 NBA season transactions">List of 2014–15 NBA season transactions</a></div>
+<h3><span class="mw-headline" id="Retirement">Retirement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=2" title="Edit section: Retirement">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>On June 10, 2014, <a href="/wiki/Derek_Fisher" title="Derek Fisher">Derek Fisher</a> signed a five-year, $25 million deal as the head coach of the <a href="/wiki/New_York_Knicks" title="New York Knicks">New York Knicks</a>, instead of playing one more season with the <a href="/wiki/Oklahoma_City_Thunder" title="Oklahoma City Thunder">Oklahoma City Thunder</a>. During his eighteen seasons in the league as a player, he won five NBA championships, all with the <a href="/wiki/Los_Angeles_Lakers" title="Los Angeles Lakers">Los Angeles Lakers</a> (2000–2002 and 2009–2010).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></li>
+<li>On June 15, 2014, <a href="/wiki/Shane_Battier" title="Shane Battier">Shane Battier</a> announced his retirement immediately following the loss of Game 5 in the <a href="/wiki/2014_NBA_Finals" title="2014 NBA Finals">2014 NBA Finals</a>. He was 35, and had played for thirteen seasons. He won back-to-back NBA championships with the <a href="/wiki/Miami_Heat" title="Miami Heat">Miami Heat</a> (2012–2013)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></li>
+<li>On September 9, 2014, <a href="/wiki/Chauncey_Billups" title="Chauncey Billups">Chauncey Billups</a> announced retirement after 17 years of playing; the last team he played for was the Detroit Pistons, and he won a championship with them in 2004 as well as a Finals MVP that same year.</li>
+</ul>
+<h3><span class="mw-headline" id="Free_agency">Free agency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=3" title="Edit section: Free agency">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/NBA_free_agency" title="NBA free agency" class="mw-redirect">Free agency</a> negotiations began on July 1, 2014, when players began to sign starting on July 10, after the <a href="/wiki/July_moratorium" title="July moratorium" class="mw-redirect">July moratorium</a> ended.</p>
+<ul>
+<li>On June 23, 2014, the <a href="/wiki/New_York_Knicks" title="New York Knicks">New York Knicks</a> announced that <a href="/wiki/Carmelo_Anthony" title="Carmelo Anthony">Carmelo Anthony</a> will try free agency.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>On June 23, 2014, the <a href="/wiki/Miami_Heat" title="Miami Heat">Miami Heat</a> announced that <a href="/wiki/LeBron_James" title="LeBron James">LeBron James</a> will become a free agent.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>In late June 2014, <a href="/wiki/Dwyane_Wade" title="Dwyane Wade">Dwyane Wade</a> and <a href="/wiki/Chris_Bosh" title="Chris Bosh">Chris Bosh</a> opted out of their contracts with the <a href="/wiki/Miami_Heat" title="Miami Heat">Miami Heat</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>On July 11, 2014, <a href="/wiki/LeBron_James" title="LeBron James">LeBron James</a> announced that he will return to the <a href="/wiki/Cleveland_Cavaliers" title="Cleveland Cavaliers">Cleveland Cavaliers</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>On July 12, 2014, <a href="/wiki/Pau_Gasol" title="Pau Gasol">Pau Gasol</a> reported joining the <a href="/wiki/Chicago_Bulls" title="Chicago Bulls">Chicago Bulls</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>On July 12, 2014, <a href="/wiki/Isaiah_Thomas_(basketball,_born_1989)" title="Isaiah Thomas (basketball, born 1989)">Isaiah Thomas</a> signed with the <a href="/wiki/Phoenix_Suns" title="Phoenix Suns">Phoenix Suns</a> in sign and trade.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>On July 12, 2014, <a href="/wiki/Chris_Bosh" title="Chris Bosh">Chris Bosh</a> re-signed with the <a href="/wiki/Miami_Heat" title="Miami Heat">Miami Heat</a> for a five year, $118 million contract.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>On July 13, 2014, <a href="/wiki/Carmelo_Anthony" title="Carmelo Anthony">Carmelo Anthony</a> announced that he will return to <a href="/wiki/New_York_Knicks" title="New York Knicks">New York Knicks</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>On July 13, 2014, <a href="/wiki/Paul_Pierce" title="Paul Pierce">Paul Pierce</a> signed with the <a href="/wiki/Washington_Wizards" title="Washington Wizards">Washington Wizards</a> for a two year, $11 million contract.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>On July 15, 2014, <a href="/wiki/Dwyane_Wade" title="Dwyane Wade">Dwyane Wade</a> re-signed with the <a href="/wiki/Miami_Heat" title="Miami Heat">Miami Heat</a> for a 2 year, $34 million contract.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="Coaching_changes">Coaching changes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=4" title="Edit section: Coaching changes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="float:right;">
+<caption>Coaching changes</caption>
+<tr>
+<th colspan="3">Offseason</th>
+</tr>
+<tr>
+<th>Team</th>
+<th>2013–14 season</th>
+<th>2014–15 season</th>
+</tr>
+<tr>
+<td><a href="/wiki/New_York_Knicks" title="New York Knicks">New York Knicks</a></td>
+<td><a href="/wiki/Mike_Woodson" title="Mike Woodson">Mike Woodson</a></td>
+<td><a href="/wiki/Derek_Fisher" title="Derek Fisher">Derek Fisher</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Minnesota_Timberwolves" title="Minnesota Timberwolves">Minnesota Timberwolves</a></td>
+<td><a href="/wiki/Rick_Adelman" title="Rick Adelman">Rick Adelman</a></td>
+<td><a href="/wiki/Flip_Saunders" title="Flip Saunders">Flip Saunders</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Milwaukee_Bucks" title="Milwaukee Bucks">Milwaukee Bucks</a></td>
+<td><a href="/wiki/Larry_Drew" title="Larry Drew">Larry Drew</a></td>
+<td><a href="/wiki/Jason_Kidd" title="Jason Kidd">Jason Kidd</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Brooklyn_Nets" title="Brooklyn Nets">Brooklyn Nets</a></td>
+<td><a href="/wiki/Jason_Kidd" title="Jason Kidd">Jason Kidd</a></td>
+<td><a href="/wiki/Lionel_Hollins" title="Lionel Hollins">Lionel Hollins</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Utah_Jazz" title="Utah Jazz">Utah Jazz</a></td>
+<td><a href="/wiki/Tyrone_Corbin" title="Tyrone Corbin">Tyrone Corbin</a></td>
+<td><a href="/wiki/Quin_Snyder" title="Quin Snyder">Quin Snyder</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Los_Angeles_Lakers" title="Los Angeles Lakers">Los Angeles Lakers</a></td>
+<td><a href="/wiki/Mike_D%27Antoni" title="Mike D'Antoni">Mike D'Antoni</a></td>
+<td><a href="/wiki/Byron_Scott" title="Byron Scott">Byron Scott</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Golden_State_Warriors" title="Golden State Warriors">Golden State Warriors</a></td>
+<td><a href="/wiki/Mark_Jackson_(basketball)" title="Mark Jackson (basketball)">Mark Jackson</a></td>
+<td><a href="/wiki/Steve_Kerr" title="Steve Kerr">Steve Kerr</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Cleveland_Cavaliers" title="Cleveland Cavaliers">Cleveland Cavaliers</a></td>
+<td><a href="/wiki/Mike_Brown_(basketball,_born_1970)" title="Mike Brown (basketball, born 1970)">Mike Brown</a></td>
+<td><a href="/wiki/David_Blatt" title="David Blatt">David Blatt</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Detroit_Pistons" title="Detroit Pistons">Detroit Pistons</a></td>
+<td><a href="/wiki/John_Loyer" title="John Loyer">John Loyer</a> (interim)</td>
+<td><a href="/wiki/Stan_Van_Gundy" title="Stan Van Gundy">Stan Van Gundy</a></td>
+</tr>
+<tr>
+<th colspan="3">In-season</th>
+</tr>
+<tr>
+<th>Team</th>
+<th>Outgoing coach</th>
+<th>Incoming coach</th>
+</tr>
+<tr>
+<td><a href="/wiki/Sacramento_Kings" title="Sacramento Kings">Sacramento Kings</a></td>
+<td><a href="/wiki/Mike_Malone_(basketball)" title="Mike Malone (basketball)" class="mw-redirect">Mike Malone</a></td>
+<td><a href="/wiki/Tyrone_Corbin" title="Tyrone Corbin">Tyrone Corbin</a> (interim)</td>
+</tr>
+</table>
+<h4><span class="mw-headline" id="Offseason">Offseason</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=5" title="Edit section: Offseason">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li>On April 21, 2014, <a href="/wiki/New_York_Knicks" title="New York Knicks">New York Knicks</a> fired head coach <a href="/wiki/Mike_Woodson" title="Mike Woodson">Mike Woodson</a> after two years with the team.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>On April 21, 2014, <a href="/wiki/Minnesota_Timberwolves" title="Minnesota Timberwolves">Minnesota Timberwolves</a> head coach <a href="/wiki/Rick_Adelman" title="Rick Adelman">Rick Adelman</a> announced his retirement from coaching.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>On April 21, 2014, the <a href="/wiki/Utah_Jazz" title="Utah Jazz">Utah Jazz</a> opted not to renew head coach <a href="/wiki/Tyrone_Corbin" title="Tyrone Corbin">Tyrone Corbin</a>'s contract after over three full seasons with the team.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>On April 30, 2014, the <a href="/wiki/Los_Angeles_Lakers" title="Los Angeles Lakers">Los Angeles Lakers</a> head coach <a href="/wiki/Mike_D%27Antoni" title="Mike D'Antoni">Mike D'Antoni</a> resigned after nearly two years with the team.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>On May 6, 2014, the <a href="/wiki/Golden_State_Warriors" title="Golden State Warriors">Golden State Warriors</a> fired head coach <a href="/wiki/Mark_Jackson_(basketball)" title="Mark Jackson (basketball)">Mark Jackson</a> after three years with the team.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>On May 12, 2014, the <a href="/wiki/Cleveland_Cavaliers" title="Cleveland Cavaliers">Cleveland Cavaliers</a> fired head coach <a href="/wiki/Mike_Brown_(basketball,_born_1970)" title="Mike Brown (basketball, born 1970)">Mike Brown</a> after one year of the second tenure with the team.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>On May 14, 2014, the <a href="/wiki/Detroit_Pistons" title="Detroit Pistons">Detroit Pistons</a> hired <a href="/wiki/Stan_Van_Gundy" title="Stan Van Gundy">Stan Van Gundy</a> as the head coach.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>On May 19, 2014, the <a href="/wiki/Golden_State_Warriors" title="Golden State Warriors">Golden State Warriors</a> hired <a href="/wiki/Steve_Kerr" title="Steve Kerr">Steve Kerr</a> as head coach.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>On June 5, 2014, the <a href="/wiki/Minnesota_Timberwolves" title="Minnesota Timberwolves">Minnesota Timberwolves</a> announced that <a href="/wiki/Flip_Saunders" title="Flip Saunders">Flip Saunders</a> will return to the Timberwolves as head coach.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>On June 6, 2014, the <a href="/wiki/Utah_Jazz" title="Utah Jazz">Utah Jazz</a> hired <a href="/wiki/Quin_Snyder" title="Quin Snyder">Quin Snyder</a>, formerly an assistant with the <a href="/wiki/Atlanta_Hawks" title="Atlanta Hawks">Atlanta Hawks</a>, as head coach.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>On June 10, 2014, the <a href="/wiki/New_York_Knicks" title="New York Knicks">New York Knicks</a> hired <a href="/wiki/Derek_Fisher" title="Derek Fisher">Derek Fisher</a> as head coach.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>On June 20, 2014, the <a href="/wiki/Cleveland_Cavaliers" title="Cleveland Cavaliers">Cleveland Cavaliers</a> hired <a href="/wiki/David_Blatt" title="David Blatt">David Blatt</a> as head coach.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>On June 30, 2014, the <a href="/wiki/Milwaukee_Bucks" title="Milwaukee Bucks">Milwaukee Bucks</a> traded their two future second picks to the <a href="/wiki/Brooklyn_Nets" title="Brooklyn Nets">Brooklyn Nets</a> for their head coach <a href="/wiki/Jason_Kidd" title="Jason Kidd">Jason Kidd</a> and fired head coach <a href="/wiki/Larry_Drew" title="Larry Drew">Larry Drew</a>.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>On July 2, 2014, the <a href="/wiki/Brooklyn_Nets" title="Brooklyn Nets">Brooklyn Nets</a> hired <a href="/wiki/Lionel_Hollins" title="Lionel Hollins">Lionel Hollins</a> as head coach.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>On July 29, 2014, the <a href="/wiki/Los_Angeles_Lakers" title="Los Angeles Lakers">Los Angeles Lakers</a> hired <a href="/wiki/Byron_Scott" title="Byron Scott">Byron Scott</a> as head coach.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="In-Season">In-Season</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=6" title="Edit section: In-Season">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>On December 15, 2014, the <a href="/wiki/Sacramento_Kings" title="Sacramento Kings">Sacramento Kings</a> fired <a href="/wiki/Mike_Malone_(basketball)" title="Mike Malone (basketball)" class="mw-redirect">Mike Malone</a> of his head coaching duties and replaced him with <a href="/wiki/Tyrone_Corbin" title="Tyrone Corbin">Tyrone Corbin</a> on an interim basis.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Preseason">Preseason</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=7" title="Edit section: Preseason">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The preseason began on Saturday, October 4, 2014 and ended on Friday, October 24, 2014.</p>
+<h2><span class="mw-headline" id="Regular_season">Regular season</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=8" title="Edit section: Regular season">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The regular season began on Tuesday, October 28, 2014, with the defending NBA champions <a href="/wiki/San_Antonio_Spurs" title="San Antonio Spurs">San Antonio Spurs</a> hosted the first game against the <a href="/wiki/Dallas_Mavericks" title="Dallas Mavericks">Dallas Mavericks</a>.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup> The regular season will end on Wednesday, April 15, 2015. <a href="/wiki/National_Basketball_Association_Christmas_games" title="National Basketball Association Christmas games">Christmas Day</a> games will be played on Thursday, December 25, 2014. The NBA is mulling a week-long <a href="/wiki/NBA_All-Star_Game" title="NBA All-Star Game">All-Star break</a> in February 2015,<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup> and the full schedule was released during a one-hour schedule release special on August 13, 2014 at 6:00&#160;p.m. <a href="/wiki/Eastern_Time_Zone" title="Eastern Time Zone">EDT</a> on <a href="/wiki/NBA_TV" title="NBA TV">NBA TV</a>.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Standings">Standings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=9" title="Edit section: Standings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="By_division">By division</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=10" title="Edit section: By division">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<dl>
+<dt><a href="/wiki/Eastern_Conference_(NBA)" title="Eastern Conference (NBA)">Eastern Conference</a></dt>
+</dl>
+<table class="wikitable" width="470px" style="font-size:95%; text-align: center">
+<tr>
+<th width="30%"><a href="/wiki/Atlantic_Division_(NBA)" title="Atlantic Division (NBA)">Atlantic Division</a>
+<div class="plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:2014%E2%80%9315_NBA_East_standings" title="Template:2014–15 NBA East standings"><span title="View this template" style="">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:2014%E2%80%9315_NBA_East_standings" title="Template talk:2014–15 NBA East standings"><span title="Discuss this template" style="">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:2014%E2%80%9315_NBA_East_standings&amp;action=edit"><span title="Edit this template" style="">e</span></a></li>
+</ul>
+</div>
+</th>
+<th width="5%"><abbr title="Games won">W</abbr></th>
+<th width="5%"><abbr title="Games lost">L</abbr></th>
+<th width="5%"><abbr title="Winning percentage">PCT</abbr></th>
+<th width="7.5%"><abbr title="Games behind">GB</abbr></th>
+<th width="7.5%"><abbr title="Home record">Home</abbr></th>
+<th width="7.5%"><abbr title="Road record">Road</abbr></th>
+<th width="7.5%"><abbr title="Division record">Div</abbr></th>
+<th width="5%"><abbr title="Games played">GP</abbr></th>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Toronto_Raptors_season" title="2014–15 Toronto Raptors season">Toronto Raptors</a></td>
+<td>24</td>
+<td>9</td>
+<td>.727</td>
+<td>0.0</td>
+<td>14–3</td>
+<td>10–6</td>
+<td>5–0</td>
+<td>33</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Brooklyn_Nets_season" title="2014–15 Brooklyn Nets season">Brooklyn Nets</a></td>
+<td>16</td>
+<td>16</td>
+<td>.500</td>
+<td>7.5</td>
+<td>8–8</td>
+<td>8–8</td>
+<td>5–2</td>
+<td>32</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Boston_Celtics_season" title="2014–15 Boston Celtics season">Boston Celtics</a></td>
+<td>11</td>
+<td>20</td>
+<td>.355</td>
+<td>12.0</td>
+<td>8–10</td>
+<td>3–10</td>
+<td>3–3</td>
+<td>31</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_New_York_Knicks_season" title="2014–15 New York Knicks season">New York Knicks</a></td>
+<td>5</td>
+<td>30</td>
+<td>.143</td>
+<td>20.0</td>
+<td>3–14</td>
+<td>2–16</td>
+<td>2–4</td>
+<td>35</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Philadelphia_76ers_season" title="2014–15 Philadelphia 76ers season">Philadelphia 76ers</a></td>
+<td>4</td>
+<td>28</td>
+<td>.125</td>
+<td>19.5</td>
+<td>0–14</td>
+<td>4–14</td>
+<td>0–6</td>
+<td>32</td>
+</tr>
+</table>
+<p><br /></p>
+<table class="wikitable" width="470px" style="font-size:95%; text-align: center">
+<tr>
+<th width="30%"><a href="/wiki/Central_Division_(NBA)" title="Central Division (NBA)">Central Division</a>
+<div class="plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:2014%E2%80%9315_NBA_East_standings" title="Template:2014–15 NBA East standings"><span title="View this template" style="">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:2014%E2%80%9315_NBA_East_standings" title="Template talk:2014–15 NBA East standings"><span title="Discuss this template" style="">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:2014%E2%80%9315_NBA_East_standings&amp;action=edit"><span title="Edit this template" style="">e</span></a></li>
+</ul>
+</div>
+</th>
+<th width="5%"><abbr title="Games won">W</abbr></th>
+<th width="5%"><abbr title="Games lost">L</abbr></th>
+<th width="5%"><abbr title="Winning percentage">PCT</abbr></th>
+<th width="7.5%"><abbr title="Games behind">GB</abbr></th>
+<th width="7.5%"><abbr title="Home record">Home</abbr></th>
+<th width="7.5%"><abbr title="Road record">Road</abbr></th>
+<th width="7.5%"><abbr title="Division record">Div</abbr></th>
+<th width="5%"><abbr title="Games played">GP</abbr></th>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Chicago_Bulls_season" title="2014–15 Chicago Bulls season">Chicago Bulls</a></td>
+<td>24</td>
+<td>10</td>
+<td>.706</td>
+<td>0.0</td>
+<td>10–6</td>
+<td>14–4</td>
+<td>3–2</td>
+<td>34</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Cleveland_Cavaliers_season" title="2014–15 Cleveland Cavaliers season">Cleveland Cavaliers</a></td>
+<td>19</td>
+<td>14</td>
+<td>.576</td>
+<td>4.5</td>
+<td>11–7</td>
+<td>8–7</td>
+<td>3–2</td>
+<td>33</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Milwaukee_Bucks_season" title="2014–15 Milwaukee Bucks season">Milwaukee Bucks</a></td>
+<td>17</td>
+<td>17</td>
+<td>.500</td>
+<td>7.0</td>
+<td>7–7</td>
+<td>10–10</td>
+<td>4–4</td>
+<td>34</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Indiana_Pacers_season" title="2014–15 Indiana Pacers season">Indiana Pacers</a></td>
+<td>13</td>
+<td>21</td>
+<td>.382</td>
+<td>11.0</td>
+<td>7–9</td>
+<td>6–12</td>
+<td>2–4</td>
+<td>34</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Detroit_Pistons_season" title="2014–15 Detroit Pistons season">Detroit Pistons</a></td>
+<td>9</td>
+<td>23</td>
+<td>.281</td>
+<td>14.0</td>
+<td>3–13</td>
+<td>6–10</td>
+<td>3–3</td>
+<td>32</td>
+</tr>
+</table>
+<p><br /></p>
+<table class="wikitable" width="470px" style="font-size:95%; text-align: center">
+<tr>
+<th width="30%"><a href="/wiki/Southeast_Division_(NBA)" title="Southeast Division (NBA)">Southeast Division</a>
+<div class="plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:2014%E2%80%9315_NBA_East_standings" title="Template:2014–15 NBA East standings"><span title="View this template" style="">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:2014%E2%80%9315_NBA_East_standings" title="Template talk:2014–15 NBA East standings"><span title="Discuss this template" style="">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:2014%E2%80%9315_NBA_East_standings&amp;action=edit"><span title="Edit this template" style="">e</span></a></li>
+</ul>
+</div>
+</th>
+<th width="5%"><abbr title="Games won">W</abbr></th>
+<th width="5%"><abbr title="Games lost">L</abbr></th>
+<th width="5%"><abbr title="Winning percentage">PCT</abbr></th>
+<th width="7.5%"><abbr title="Games behind">GB</abbr></th>
+<th width="7.5%"><abbr title="Home record">Home</abbr></th>
+<th width="7.5%"><abbr title="Road record">Road</abbr></th>
+<th width="7.5%"><abbr title="Division record">Div</abbr></th>
+<th width="5%"><abbr title="Games played">GP</abbr></th>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Atlanta_Hawks_season" title="2014–15 Atlanta Hawks season">Atlanta Hawks</a></td>
+<td>25</td>
+<td>8</td>
+<td>.758</td>
+<td>0.0</td>
+<td>14–3</td>
+<td>11–5</td>
+<td>5–2</td>
+<td>33</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Washington_Wizards_season" title="2014–15 Washington Wizards season">Washington Wizards</a></td>
+<td>22</td>
+<td>11</td>
+<td>.667</td>
+<td>3.0</td>
+<td>14–4</td>
+<td>8–7</td>
+<td>5–2</td>
+<td>33</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Miami_Heat_season" title="2014–15 Miami Heat season">Miami Heat</a></td>
+<td>14</td>
+<td>20</td>
+<td>.412</td>
+<td>11.5</td>
+<td>6–12</td>
+<td>8–8</td>
+<td>3–6</td>
+<td>34</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Orlando_Magic_season" title="2014–15 Orlando Magic season">Orlando Magic</a></td>
+<td>13</td>
+<td>24</td>
+<td>.351</td>
+<td>14.0</td>
+<td>4–12</td>
+<td>9–12</td>
+<td>4–6</td>
+<td>37</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Charlotte_Hornets_season" title="2014–15 Charlotte Hornets season">Charlotte Hornets</a></td>
+<td>11</td>
+<td>24</td>
+<td>.314</td>
+<td>15.0</td>
+<td>7–12</td>
+<td>4–12</td>
+<td>3–4</td>
+<td>35</td>
+</tr>
+</table>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<dl>
+<dt><a href="/wiki/Western_Conference_(NBA)" title="Western Conference (NBA)">Western Conference</a></dt>
+</dl>
+<table class="wikitable" width="470px" style="font-size:95%; text-align: center">
+<tr>
+<th width="30%"><a href="/wiki/Northwest_Division_(NBA)" title="Northwest Division (NBA)">Northwest Division</a>
+<div class="plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:2014%E2%80%9315_NBA_West_standings" title="Template:2014–15 NBA West standings"><span title="View this template" style="">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:2014%E2%80%9315_NBA_West_standings" title="Template talk:2014–15 NBA West standings"><span title="Discuss this template" style="">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:2014%E2%80%9315_NBA_West_standings&amp;action=edit"><span title="Edit this template" style="">e</span></a></li>
+</ul>
+</div>
+</th>
+<th width="5%"><abbr title="Games won">W</abbr></th>
+<th width="5%"><abbr title="Games lost">L</abbr></th>
+<th width="5%"><abbr title="Winning percentage">PCT</abbr></th>
+<th width="7.5%"><abbr title="Games behind">GB</abbr></th>
+<th width="7.5%"><abbr title="Home record">Home</abbr></th>
+<th width="7.5%"><abbr title="Road record">Road</abbr></th>
+<th width="7.5%"><abbr title="Division record">Div</abbr></th>
+<th width="5%"><abbr title="Games played">GP</abbr></th>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Portland_Trail_Blazers_season" title="2014–15 Portland Trail Blazers season">Portland Trail Blazers</a></td>
+<td>26</td>
+<td>8</td>
+<td>.765</td>
+<td>0.0</td>
+<td>15–3</td>
+<td>11–5</td>
+<td>6–1</td>
+<td>34</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Oklahoma_City_Thunder_season" title="2014–15 Oklahoma City Thunder season">Oklahoma City Thunder</a></td>
+<td>17</td>
+<td>17</td>
+<td>.500</td>
+<td>9.0</td>
+<td>10–7</td>
+<td>7–10</td>
+<td>3–4</td>
+<td>34</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Denver_Nuggets_season" title="2014–15 Denver Nuggets season">Denver Nuggets</a></td>
+<td>14</td>
+<td>20</td>
+<td>.412</td>
+<td>12.0</td>
+<td>10–8</td>
+<td>4–12</td>
+<td>3–4</td>
+<td>34</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Utah_Jazz_season" title="2014–15 Utah Jazz season">Utah Jazz</a></td>
+<td>12</td>
+<td>22</td>
+<td>.353</td>
+<td>14.0</td>
+<td>6–10</td>
+<td>6–12</td>
+<td>3–2</td>
+<td>34</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Minnesota_Timberwolves_season" title="2014–15 Minnesota Timberwolves season">Minnesota Timberwolves</a></td>
+<td>5</td>
+<td>27</td>
+<td>.156</td>
+<td>20.0</td>
+<td>3–13</td>
+<td>2–14</td>
+<td>1–5</td>
+<td>32</td>
+</tr>
+</table>
+<p><br /></p>
+<table class="wikitable" width="470px" style="font-size:95%; text-align: center">
+<tr>
+<th width="30%"><a href="/wiki/Pacific_Division_(NBA)" title="Pacific Division (NBA)">Pacific Division</a>
+<div class="plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:2014%E2%80%9315_NBA_West_standings" title="Template:2014–15 NBA West standings"><span title="View this template" style="">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:2014%E2%80%9315_NBA_West_standings" title="Template talk:2014–15 NBA West standings"><span title="Discuss this template" style="">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:2014%E2%80%9315_NBA_West_standings&amp;action=edit"><span title="Edit this template" style="">e</span></a></li>
+</ul>
+</div>
+</th>
+<th width="5%"><abbr title="Games won">W</abbr></th>
+<th width="5%"><abbr title="Games lost">L</abbr></th>
+<th width="5%"><abbr title="Winning percentage">PCT</abbr></th>
+<th width="7.5%"><abbr title="Games behind">GB</abbr></th>
+<th width="7.5%"><abbr title="Home record">Home</abbr></th>
+<th width="7.5%"><abbr title="Road record">Road</abbr></th>
+<th width="7.5%"><abbr title="Division record">Div</abbr></th>
+<th width="5%"><abbr title="Games played">GP</abbr></th>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Golden_State_Warriors_season" title="2014–15 Golden State Warriors season">Golden State Warriors</a></td>
+<td>26</td>
+<td>5</td>
+<td>.839</td>
+<td>0.0</td>
+<td>13–1</td>
+<td>13–4</td>
+<td>5–3</td>
+<td>31</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Los_Angeles_Clippers_season" title="2014–15 Los Angeles Clippers season">Los Angeles Clippers</a></td>
+<td>23</td>
+<td>11</td>
+<td>.676</td>
+<td>4.5</td>
+<td>15–4</td>
+<td>8–7</td>
+<td>4–2</td>
+<td>34</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Phoenix_Suns_season" title="2014–15 Phoenix Suns season">Phoenix Suns</a></td>
+<td>19</td>
+<td>16</td>
+<td>.543</td>
+<td>9.0</td>
+<td>8–7</td>
+<td>11–9</td>
+<td>5–3</td>
+<td>35</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Sacramento_Kings_season" title="2014–15 Sacramento Kings season">Sacramento Kings</a></td>
+<td>14</td>
+<td>19</td>
+<td>.424</td>
+<td>13.0</td>
+<td>8–10</td>
+<td>6–9</td>
+<td>3–4</td>
+<td>33</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Los_Angeles_Lakers_season" title="2014–15 Los Angeles Lakers season">Los Angeles Lakers</a></td>
+<td>10</td>
+<td>23</td>
+<td>.303</td>
+<td>17.0</td>
+<td>4–12</td>
+<td>6–11</td>
+<td>2–7</td>
+<td>33</td>
+</tr>
+</table>
+<p><br /></p>
+<table class="wikitable" width="470px" style="font-size:95%; text-align: center">
+<tr>
+<th width="30%"><a href="/wiki/Southwest_Division_(NBA)" title="Southwest Division (NBA)">Southwest Division</a>
+<div class="plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:2014%E2%80%9315_NBA_West_standings" title="Template:2014–15 NBA West standings"><span title="View this template" style="">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:2014%E2%80%9315_NBA_West_standings" title="Template talk:2014–15 NBA West standings"><span title="Discuss this template" style="">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:2014%E2%80%9315_NBA_West_standings&amp;action=edit"><span title="Edit this template" style="">e</span></a></li>
+</ul>
+</div>
+</th>
+<th width="5%"><abbr title="Games won">W</abbr></th>
+<th width="5%"><abbr title="Games lost">L</abbr></th>
+<th width="5%"><abbr title="Winning percentage">PCT</abbr></th>
+<th width="7.5%"><abbr title="Games behind">GB</abbr></th>
+<th width="7.5%"><abbr title="Home record">Home</abbr></th>
+<th width="7.5%"><abbr title="Road record">Road</abbr></th>
+<th width="7.5%"><abbr title="Division record">Div</abbr></th>
+<th width="5%"><abbr title="Games played">GP</abbr></th>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Memphis_Grizzlies_season" title="2014–15 Memphis Grizzlies season">Memphis Grizzlies</a></td>
+<td>24</td>
+<td>9</td>
+<td>.727</td>
+<td>0.0</td>
+<td>13–4</td>
+<td>11–5</td>
+<td>5–3</td>
+<td>33</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Dallas_Mavericks_season" title="2014–15 Dallas Mavericks season">Dallas Mavericks</a></td>
+<td>24</td>
+<td>10</td>
+<td>.706</td>
+<td>0.5</td>
+<td>13–5</td>
+<td>11–5</td>
+<td>3–3</td>
+<td>34</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Houston_Rockets_season" title="2014–15 Houston Rockets season">Houston Rockets</a></td>
+<td>23</td>
+<td>10</td>
+<td>.697</td>
+<td>1.0</td>
+<td>12–6</td>
+<td>11–4</td>
+<td>4–4</td>
+<td>33</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_San_Antonio_Spurs_season" title="2014–15 San Antonio Spurs season">San Antonio Spurs</a></td>
+<td>21</td>
+<td>14</td>
+<td>.600</td>
+<td>4.0</td>
+<td>12–5</td>
+<td>9–9</td>
+<td>4-6</td>
+<td>35</td>
+</tr>
+<tr>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_New_Orleans_Pelicans_season" title="2014–15 New Orleans Pelicans season">New Orleans Pelicans</a></td>
+<td>17</td>
+<td>16</td>
+<td>.515</td>
+<td>7.0</td>
+<td>11–4</td>
+<td>6–12</td>
+<td>4–4</td>
+<td>33</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h4><span class="mw-headline" id="By_Conference">By Conference</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=11" title="Edit section: By Conference">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<table class="wikitable" style="font-size: 95%; text-align: center; width: 60%">
+<tr>
+<th colspan="7"><a href="/wiki/Eastern_Conference_(NBA)" title="Eastern Conference (NBA)">Eastern Conference</a>
+<div class="plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:2014%E2%80%9315_NBA_East_standings" title="Template:2014–15 NBA East standings"><span title="View this template" style="">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:2014%E2%80%9315_NBA_East_standings" title="Template talk:2014–15 NBA East standings"><span title="Discuss this template" style="">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:2014%E2%80%9315_NBA_East_standings&amp;action=edit"><span title="Edit this template" style="">e</span></a></li>
+</ul>
+</div>
+</th>
+</tr>
+<tr>
+<th width="5%">#</th>
+<th width="40%">Team</th>
+<th width="5%"><abbr title="Games won">W</abbr></th>
+<th width="5%"><abbr title="Games lost">L</abbr></th>
+<th width="5%"><abbr title="Winning percentage">PCT</abbr></th>
+<th width="7.5%"><abbr title="Games behind">GB</abbr></th>
+<th width="5%"><abbr title="Games played">GP</abbr></th>
+</tr>
+<tr>
+<th>1</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Atlanta_Hawks_season" title="2014–15 Atlanta Hawks season">Atlanta Hawks</a> *</td>
+<td>25</td>
+<td>8</td>
+<td>.758</td>
+<td>–</td>
+<td>33</td>
+</tr>
+<tr>
+<th>2</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Toronto_Raptors_season" title="2014–15 Toronto Raptors season">Toronto Raptors</a> *</td>
+<td>24</td>
+<td>9</td>
+<td>.727</td>
+<td>1.0</td>
+<td>33</td>
+</tr>
+<tr>
+<th>3</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Chicago_Bulls_season" title="2014–15 Chicago Bulls season">Chicago Bulls</a> *</td>
+<td>24</td>
+<td>10</td>
+<td>.706</td>
+<td>1.5</td>
+<td>34</td>
+</tr>
+<tr>
+<th>4</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Washington_Wizards_season" title="2014–15 Washington Wizards season">Washington Wizards</a></td>
+<td>22</td>
+<td>11</td>
+<td>.667</td>
+<td>3.0</td>
+<td>33</td>
+</tr>
+<tr>
+<th>5</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Cleveland_Cavaliers_season" title="2014–15 Cleveland Cavaliers season">Cleveland Cavaliers</a></td>
+<td>19</td>
+<td>14</td>
+<td>.576</td>
+<td>6.0</td>
+<td>33</td>
+</tr>
+<tr>
+<th>6</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Milwaukee_Bucks_season" title="2014–15 Milwaukee Bucks season">Milwaukee Bucks</a></td>
+<td>17</td>
+<td>17</td>
+<td>.500</td>
+<td>8.5</td>
+<td>34</td>
+</tr>
+<tr>
+<th>7</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Brooklyn_Nets_season" title="2014–15 Brooklyn Nets season">Brooklyn Nets</a></td>
+<td>16</td>
+<td>16</td>
+<td>.500</td>
+<td>8.5</td>
+<td>32</td>
+</tr>
+<tr>
+<th>8</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Miami_Heat_season" title="2014–15 Miami Heat season">Miami Heat</a></td>
+<td>14</td>
+<td>20</td>
+<td>.412</td>
+<td>11.5</td>
+<td>34</td>
+</tr>
+<tr bgcolor="#CCCCCC">
+<td colspan="7"></td>
+</tr>
+<tr>
+<th>9</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Indiana_Pacers_season" title="2014–15 Indiana Pacers season">Indiana Pacers</a></td>
+<td>13</td>
+<td>21</td>
+<td>.382</td>
+<td>12.5</td>
+<td>34</td>
+</tr>
+<tr>
+<th>10</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Boston_Celtics_season" title="2014–15 Boston Celtics season">Boston Celtics</a></td>
+<td>11</td>
+<td>20</td>
+<td>.355</td>
+<td>13.0</td>
+<td>31</td>
+</tr>
+<tr>
+<th>11</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Orlando_Magic_season" title="2014–15 Orlando Magic season">Orlando Magic</a></td>
+<td>13</td>
+<td>24</td>
+<td>.351</td>
+<td>14.0</td>
+<td>37</td>
+</tr>
+<tr>
+<th>12</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Charlotte_Hornets_season" title="2014–15 Charlotte Hornets season">Charlotte Hornets</a></td>
+<td>11</td>
+<td>24</td>
+<td>.314</td>
+<td>15.0</td>
+<td>35</td>
+</tr>
+<tr>
+<th>13</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Detroit_Pistons_season" title="2014–15 Detroit Pistons season">Detroit Pistons</a></td>
+<td>9</td>
+<td>23</td>
+<td>.281</td>
+<td>15.5</td>
+<td>32</td>
+</tr>
+<tr>
+<th>14</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_New_York_Knicks_season" title="2014–15 New York Knicks season">New York Knicks</a></td>
+<td>5</td>
+<td>30</td>
+<td>.143</td>
+<td>21.0</td>
+<td>35</td>
+</tr>
+<tr>
+<th>15</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Philadelphia_76ers_season" title="2014–15 Philadelphia 76ers season">Philadelphia 76ers</a></td>
+<td>4</td>
+<td>28</td>
+<td>.125</td>
+<td>20.5</td>
+<td>32</td>
+</tr>
+</table>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<table class="wikitable" style="font-size: 95%; text-align: center; width: 60%">
+<tr>
+<th colspan="7"><a href="/wiki/Western_Conference_(NBA)" title="Western Conference (NBA)">Western Conference</a>
+<div class="plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:2014%E2%80%9315_NBA_West_standings" title="Template:2014–15 NBA West standings"><span title="View this template" style="">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:2014%E2%80%9315_NBA_West_standings" title="Template talk:2014–15 NBA West standings"><span title="Discuss this template" style="">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:2014%E2%80%9315_NBA_West_standings&amp;action=edit"><span title="Edit this template" style="">e</span></a></li>
+</ul>
+</div>
+</th>
+</tr>
+<tr>
+<th width="5%">#</th>
+<th width="40%">Team</th>
+<th width="5%"><abbr title="Games won">W</abbr></th>
+<th width="5%"><abbr title="Games lost">L</abbr></th>
+<th width="5%"><abbr title="Winning percentage">PCT</abbr></th>
+<th width="7.5%"><abbr title="Games behind">GB</abbr></th>
+<th width="5%"><abbr title="Games played">GP</abbr></th>
+</tr>
+<tr>
+<th>1</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Golden_State_Warriors_season" title="2014–15 Golden State Warriors season">Golden State Warriors</a> *</td>
+<td>26</td>
+<td>5</td>
+<td>.839</td>
+<td>–</td>
+<td>31</td>
+</tr>
+<tr>
+<th>2</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Portland_Trail_Blazers_season" title="2014–15 Portland Trail Blazers season">Portland Trail Blazers</a> *</td>
+<td>26</td>
+<td>8</td>
+<td>.765</td>
+<td>1.5</td>
+<td>34</td>
+</tr>
+<tr>
+<th>3</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Memphis_Grizzlies_season" title="2014–15 Memphis Grizzlies season">Memphis Grizzlies</a> *</td>
+<td>24</td>
+<td>9</td>
+<td>.727</td>
+<td>3.0</td>
+<td>33</td>
+</tr>
+<tr>
+<th>4</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Dallas_Mavericks_season" title="2014–15 Dallas Mavericks season">Dallas Mavericks</a></td>
+<td>24</td>
+<td>10</td>
+<td>.706</td>
+<td>3.5</td>
+<td>34</td>
+</tr>
+<tr>
+<th>5</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Houston_Rockets_season" title="2014–15 Houston Rockets season">Houston Rockets</a></td>
+<td>23</td>
+<td>10</td>
+<td>.697</td>
+<td>4.0</td>
+<td>33</td>
+</tr>
+<tr>
+<th>6</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Los_Angeles_Clippers_season" title="2014–15 Los Angeles Clippers season">Los Angeles Clippers</a></td>
+<td>23</td>
+<td>11</td>
+<td>.676</td>
+<td>4.5</td>
+<td>34</td>
+</tr>
+<tr>
+<th>7</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_San_Antonio_Spurs_season" title="2014–15 San Antonio Spurs season">San Antonio Spurs</a></td>
+<td>21</td>
+<td>14</td>
+<td>.600</td>
+<td>7.0</td>
+<td>35</td>
+</tr>
+<tr>
+<th>8</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Phoenix_Suns_season" title="2014–15 Phoenix Suns season">Phoenix Suns</a></td>
+<td>19</td>
+<td>16</td>
+<td>.543</td>
+<td>9.0</td>
+<td>35</td>
+</tr>
+<tr bgcolor="#CCCCCC">
+<td colspan="7"></td>
+</tr>
+<tr>
+<th>9</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_New_Orleans_Pelicans_season" title="2014–15 New Orleans Pelicans season">New Orleans Pelicans</a></td>
+<td>17</td>
+<td>16</td>
+<td>.515</td>
+<td>10.0</td>
+<td>33</td>
+</tr>
+<tr>
+<th>10</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Oklahoma_City_Thunder_season" title="2014–15 Oklahoma City Thunder season">Oklahoma City Thunder</a></td>
+<td>17</td>
+<td>17</td>
+<td>.500</td>
+<td>10.5</td>
+<td>34</td>
+</tr>
+<tr>
+<th>11</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Sacramento_Kings_season" title="2014–15 Sacramento Kings season">Sacramento Kings</a></td>
+<td>14</td>
+<td>19</td>
+<td>.424</td>
+<td>13.0</td>
+<td>33</td>
+</tr>
+<tr>
+<th>12</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Denver_Nuggets_season" title="2014–15 Denver Nuggets season">Denver Nuggets</a></td>
+<td>14</td>
+<td>20</td>
+<td>.412</td>
+<td>13.5</td>
+<td>34</td>
+</tr>
+<tr>
+<th>13</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Utah_Jazz_season" title="2014–15 Utah Jazz season">Utah Jazz</a></td>
+<td>12</td>
+<td>22</td>
+<td>.353</td>
+<td>15.5</td>
+<td>34</td>
+</tr>
+<tr>
+<th>14</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Los_Angeles_Lakers_season" title="2014–15 Los Angeles Lakers season">Los Angeles Lakers</a></td>
+<td>10</td>
+<td>23</td>
+<td>.303</td>
+<td>17.0</td>
+<td>33</td>
+</tr>
+<tr>
+<th>15</th>
+<td style="text-align: left"><a href="/wiki/2014%E2%80%9315_Minnesota_Timberwolves_season" title="2014–15 Minnesota Timberwolves season">Minnesota Timberwolves</a></td>
+<td>5</td>
+<td>27</td>
+<td>.156</td>
+<td>21.5</td>
+<td>32</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Statistics_leaders">Statistics leaders</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=12" title="Edit section: Statistics leaders">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Individual_statistic_leaders">Individual statistic leaders</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=13" title="Edit section: Individual statistic leaders">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="text-align:center">
+<tr>
+<th>Category</th>
+<th>Player</th>
+<th>Team</th>
+<th>Statistics</th>
+</tr>
+<tr>
+<td>Points per game</td>
+<td><a href="/wiki/James_Harden" title="James Harden">James Harden</a></td>
+<td><a href="/wiki/Houston_Rockets" title="Houston Rockets">Houston Rockets</a></td>
+<td>27.7</td>
+</tr>
+<tr>
+<td>Rebounds per game</td>
+<td><a href="/wiki/DeAndre_Jordan" title="DeAndre Jordan">DeAndre Jordan</a></td>
+<td><a href="/wiki/Los_Angeles_Clippers" title="Los Angeles Clippers">Los Angeles Clippers</a></td>
+<td>13.7</td>
+</tr>
+<tr>
+<td>Assists per game</td>
+<td><a href="/wiki/John_Wall" title="John Wall" class="mw-disambig">John Wall</a></td>
+<td><a href="/wiki/Washington_Wizards" title="Washington Wizards">Washington Wizards</a></td>
+<td>10.3</td>
+</tr>
+<tr>
+<td>Steals per game</td>
+<td><a href="/wiki/Corey_Brewer" title="Corey Brewer">Corey Brewer</a></td>
+<td><a href="/wiki/Minnesota_Timberwolves" title="Minnesota Timberwolves">Minnesota Timberwolves</a> / <a href="/wiki/Houston_Rockets" title="Houston Rockets">Houston Rockets</a></td>
+<td>2.1</td>
+</tr>
+<tr>
+<td>Blocks per game</td>
+<td><a href="/wiki/Anthony_Davis_(basketball)" title="Anthony Davis (basketball)">Anthony Davis</a></td>
+<td><a href="/wiki/New_Orleans_Pelicans" title="New Orleans Pelicans">New Orleans Pelicans</a></td>
+<td>2.9</td>
+</tr>
+<tr>
+<td>Turnovers per game</td>
+<td><a href="/wiki/Michael_Carter-Williams" title="Michael Carter-Williams">Michael Carter-Williams</a></td>
+<td><a href="/wiki/Philadelphia_76ers" title="Philadelphia 76ers">Philadelphia 76ers</a></td>
+<td>4.7</td>
+</tr>
+<tr>
+<td>Minutes per game</td>
+<td><a href="/wiki/Jimmy_Butler_(basketball)" title="Jimmy Butler (basketball)">Jimmy Butler</a></td>
+<td><a href="/wiki/Chicago_Bulls" title="Chicago Bulls">Chicago Bulls</a></td>
+<td>40.0</td>
+</tr>
+<tr>
+<td>FG%</td>
+<td><a href="/wiki/Brandan_Wright" title="Brandan Wright">Brandan Wright</a></td>
+<td><a href="/wiki/Dallas_Mavericks" title="Dallas Mavericks">Dallas Mavericks</a> / <a href="/wiki/Boston_Celtics" title="Boston Celtics">Boston Celtics</a></td>
+<td>73.2%</td>
+</tr>
+<tr>
+<td>FT%</td>
+<td><a href="/wiki/Jerryd_Bayless" title="Jerryd Bayless">Jerryd Bayless</a></td>
+<td><a href="/wiki/Milwaukee_Bucks" title="Milwaukee Bucks">Milwaukee Bucks</a></td>
+<td>98.3%</td>
+</tr>
+<tr>
+<td>3FG%</td>
+<td><a href="/wiki/Kyle_Korver" title="Kyle Korver">Kyle Korver</a></td>
+<td><a href="/wiki/Atlanta_Hawks" title="Atlanta Hawks">Atlanta Hawks</a></td>
+<td>52.0%</td>
+</tr>
+<tr>
+<td><a href="/wiki/Player_efficiency_rating" title="Player efficiency rating">Efficiency</a> per game</td>
+<td><a href="/wiki/Russell_Westbrook" title="Russell Westbrook">Russell Westbrook</a></td>
+<td><a href="/wiki/Oklahoma_City_Thunder" title="Oklahoma City Thunder">Oklahoma City Thunder</a></td>
+<td>32.83</td>
+</tr>
+<tr>
+<td>Double-doubles</td>
+<td><a href="/wiki/Nikola_Vu%C4%8Devi%C4%87" title="Nikola Vučević">Nikola Vucevic</a></td>
+<td><a href="/wiki/Orlando_Magic" title="Orlando Magic">Orlando Magic</a></td>
+<td>17</td>
+</tr>
+<tr>
+<td>Triple-doubles</td>
+<td><a href="/wiki/Rajon_Rondo" title="Rajon Rondo">Rajon Rondo</a></td>
+<td><a href="/wiki/Boston_Celtics" title="Boston Celtics">Boston Celtics</a> / <a href="/wiki/Dallas_Mavericks" title="Dallas Mavericks">Dallas Mavericks</a></td>
+<td>3</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Individual_game_highs">Individual game highs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=14" title="Edit section: Individual game highs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="text-align:center">
+<tr>
+<th>Category</th>
+<th>Player</th>
+<th>Statistics</th>
+</tr>
+<tr>
+<td>Points</td>
+<td><a href="/wiki/Carmelo_Anthony" title="Carmelo Anthony">Carmelo Anthony</a></td>
+<td>46</td>
+</tr>
+<tr>
+<td rowspan="2">Rebounds</td>
+<td><a href="/wiki/Tyson_Chandler" title="Tyson Chandler">Tyson Chandler</a></td>
+<td rowspan="2">25</td>
+</tr>
+<tr>
+<td><a href="/wiki/Kenneth_Faried" title="Kenneth Faried">Kenneth Faried</a></td>
+</tr>
+<tr>
+<td>Assists</td>
+<td><a href="/wiki/Rajon_Rondo" title="Rajon Rondo">Rajon Rondo</a></td>
+<td>19</td>
+</tr>
+<tr>
+<td rowspan="10">Steals</td>
+<td><a href="/wiki/DeMar_DeRozan" title="DeMar DeRozan">DeMar DeRozan</a></td>
+<td rowspan="10">6</td>
+</tr>
+<tr>
+<td><a href="/wiki/Stephen_Curry_(basketball)" title="Stephen Curry (basketball)">Stephen Curry</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Nerlens_Noel" title="Nerlens Noel">Nerlens Noel</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Corey_Brewer" title="Corey Brewer">Corey Brewer</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Anthony_Davis_(basketball)" title="Anthony Davis (basketball)">Anthony Davis</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Mario_Chalmers" title="Mario Chalmers">Mario Chalmers</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Kyle_Lowry" title="Kyle Lowry">Kyle Lowry</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Michael_Carter-Williams" title="Michael Carter-Williams">Michael Carter-Williams</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Draymond_Green" title="Draymond Green">Draymond Green</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Trevor_Ariza" title="Trevor Ariza">Trevor Ariza</a></td>
+</tr>
+<tr>
+<td rowspan="2">Blocks</td>
+<td><a href="/wiki/Anthony_Davis_(basketball)" title="Anthony Davis (basketball)">Anthony Davis</a></td>
+<td rowspan="2">9</td>
+</tr>
+<tr>
+<td><a href="/wiki/Pau_Gasol" title="Pau Gasol">Pau Gasol</a></td>
+</tr>
+<tr>
+<td>Three Pointers</td>
+<td><a href="/wiki/Jodie_Meeks" title="Jodie Meeks">Jodie Meeks</a></td>
+<td>9</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Team_statistic_leaders">Team statistic leaders</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=15" title="Edit section: Team statistic leaders">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="text-align:center">
+<tr>
+<th>Category</th>
+<th>Team</th>
+<th>Statistics</th>
+</tr>
+<tr>
+<td>Points per game</td>
+<td><a href="/wiki/Dallas_Mavericks" title="Dallas Mavericks">Dallas Mavericks</a></td>
+<td>109.6</td>
+</tr>
+<tr>
+<td>Rebounds per game</td>
+<td><a href="/wiki/Portland_Trail_Blazers" title="Portland Trail Blazers">Portland Trail Blazers</a></td>
+<td>46.5</td>
+</tr>
+<tr>
+<td>Assists per game</td>
+<td><a href="/wiki/Atlanta_Hawks" title="Atlanta Hawks">Atlanta Hawks</a></td>
+<td>25.9</td>
+</tr>
+<tr>
+<td>Steals per game</td>
+<td><a href="/wiki/Philadelphia_76ers" title="Philadelphia 76ers">Philadelphia 76ers</a></td>
+<td>10.1</td>
+</tr>
+<tr>
+<td>Blocks per game</td>
+<td><a href="/wiki/Golden_State_Warriors" title="Golden State Warriors">Golden State Warriors</a></td>
+<td>6.5</td>
+</tr>
+<tr>
+<td>Blocked attempts per game</td>
+<td><a href="/wiki/New_Orleans_Pelicans" title="New Orleans Pelicans">New Orleans Pelicans</a></td>
+<td>6.0</td>
+</tr>
+<tr>
+<td>Turnovers per game</td>
+<td><a href="/wiki/Philadelphia_76ers" title="Philadelphia 76ers">Philadelphia 76ers</a></td>
+<td>18.9</td>
+</tr>
+<tr>
+<td>Fouls per game</td>
+<td><a href="/wiki/Denver_Nuggets" title="Denver Nuggets">Denver Nuggets</a></td>
+<td>24.1</td>
+</tr>
+<tr>
+<td>Fouls Drawn per game</td>
+<td><a href="/wiki/Sacramento_Kings" title="Sacramento Kings">Sacramento Kings</a></td>
+<td>26.2</td>
+</tr>
+<tr>
+<td>FG%</td>
+<td><a href="/wiki/Golden_State_Warriors" title="Golden State Warriors">Golden State Warriors</a></td>
+<td>48.1%</td>
+</tr>
+<tr>
+<td>FT%</td>
+<td><a href="/wiki/Phoenix_Suns" title="Phoenix Suns">Phoenix Suns</a></td>
+<td>80.1%</td>
+</tr>
+<tr>
+<td>3FG%</td>
+<td><a href="/wiki/Washington_Wizards" title="Washington Wizards">Washington Wizards</a></td>
+<td>38.9%</td>
+</tr>
+<tr>
+<td>+/-</td>
+<td><a href="/wiki/Golden_State_Warriors" title="Golden State Warriors">Golden State Warriors</a></td>
+<td>9.5</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=16" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Players_of_the_week">Players of the week</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=17" title="Edit section: Players of the week">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The following players were named the Eastern and Western Conference Players of the Week.</p>
+<table class="wikitable sortable" style="text-align:left">
+<tr>
+<th width="120px">Week</th>
+<th width="300px">Eastern Conference</th>
+<th width="300px">Western Conference</th>
+<th class="unsortable">Ref.</th>
+</tr>
+<tr>
+<td align="center"><span class="sortkey">01</span>Oct. 28&#160;– Nov. 2</td>
+<td><span class="sortkey">Bosh, Chris</span><span class="vcard"><span class="fn"><a href="/wiki/Chris_Bosh" title="Chris Bosh">Chris Bosh</a></span></span> (<a href="/wiki/Miami_Heat" title="Miami Heat">Miami Heat</a>) <small>(1/1)</small></td>
+<td><span class="sortkey">Thompson, Klay</span><span class="vcard"><span class="fn"><a href="/wiki/Klay_Thompson" title="Klay Thompson">Klay Thompson</a></span></span> (<a href="/wiki/Golden_State_Warriors" title="Golden State Warriors">Golden State Warriors</a>) <small>(1/1)</small></td>
+<td align="center"><sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td align="center"><span class="sortkey">02</span>Nov. 3&#160;– Nov. 9</td>
+<td><span class="sortkey">Williams, Deron</span><span class="vcard"><span class="fn"><a href="/wiki/Deron_Williams" title="Deron Williams">Deron Williams</a></span></span> (<a href="/wiki/Brooklyn_Nets" title="Brooklyn Nets">Brooklyn Nets</a>) <small>(1/1)</small></td>
+<td><span class="sortkey">Curry, Stephen</span><span class="vcard"><span class="fn"><a href="/wiki/Stephen_Curry_(basketball)" title="Stephen Curry (basketball)">Stephen Curry</a></span></span> (<a href="/wiki/Golden_State_Warriors" title="Golden State Warriors">Golden State Warriors</a>) <small>(1/1)</small></td>
+<td align="center"><sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td align="center"><span class="sortkey">03</span>Nov. 10&#160;– Nov. 16</td>
+<td><span class="sortkey">James, LeBron</span><span class="vcard"><span class="fn"><a href="/wiki/LeBron_James" title="LeBron James">LeBron James</a></span></span> (<a href="/wiki/Cleveland_Cavaliers" title="Cleveland Cavaliers">Cleveland Cavaliers</a>) <small>(1/2)</small></td>
+<td><span class="sortkey">Lillard, Damian</span><span class="vcard"><span class="fn"><a href="/wiki/Damian_Lillard" title="Damian Lillard">Damian Lillard</a></span></span> (<a href="/wiki/Portland_Trail_Blazers" title="Portland Trail Blazers">Portland Trail Blazers</a>) <small>(1/1)</small></td>
+<td align="center"><sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td align="center"><span class="sortkey">04</span>Nov. 17&#160;– Nov. 23</td>
+<td><span class="sortkey">Williams, Louis</span><span class="vcard"><span class="fn"><a href="/wiki/Louis_Williams" title="Louis Williams">Louis Williams</a></span></span> (<a href="/wiki/Toronto_Raptors" title="Toronto Raptors">Toronto Raptors</a>) <small>(1/1)</small></td>
+<td><span class="sortkey">Cousins, DeMarcus</span><span class="vcard"><span class="fn"><a href="/wiki/DeMarcus_Cousins" title="DeMarcus Cousins">DeMarcus Cousins</a></span></span> (<a href="/wiki/Sacramento_Kings" title="Sacramento Kings">Sacramento Kings</a>) <small>(1/1)</small></td>
+<td align="center"><sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td align="center"><span class="sortkey">05</span>Nov. 24&#160;– Nov. 30</td>
+<td><span class="sortkey">James, LeBron</span><span class="vcard"><span class="fn"><a href="/wiki/LeBron_James" title="LeBron James">LeBron James</a></span></span> (<a href="/wiki/Cleveland_Cavaliers" title="Cleveland Cavaliers">Cleveland Cavaliers</a>) <small>(2/2)</small></td>
+<td><span class="sortkey">Griffin, Blake</span><span class="vcard"><span class="fn"><a href="/wiki/Blake_Griffin" title="Blake Griffin">Blake Griffin</a></span></span> (<a href="/wiki/Los_Angeles_Clippers" title="Los Angeles Clippers">Los Angeles Clippers</a>) <small>(1/1)</small></td>
+<td align="center"><sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td align="center"><span class="sortkey">06</span>Dec. 1&#160;– Dec. 7</td>
+<td><span class="sortkey">Lowry, Kyle</span><span class="vcard"><span class="fn"><a href="/wiki/Kyle_Lowry" title="Kyle Lowry">Kyle Lowry</a></span></span> (<a href="/wiki/Toronto_Raptors" title="Toronto Raptors">Toronto Raptors</a>) <small>(1/1)</small></td>
+<td><span class="sortkey">Aldridge, LaMarcus</span><span class="vcard"><span class="fn"><a href="/wiki/LaMarcus_Aldridge" title="LaMarcus Aldridge">LaMarcus Aldridge</a></span></span> (<a href="/wiki/Portland_Trail_Blazers" title="Portland Trail Blazers">Portland Trail Blazers</a>) <small>(1/2)</small></td>
+<td align="center"><sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>37<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td align="center"><span class="sortkey">07</span>Dec. 8&#160;– Dec. 14</td>
+<td><span class="sortkey">Wall, John</span><span class="vcard"><span class="fn"><a href="/wiki/John_Wall_(basketball)" title="John Wall (basketball)">John Wall</a></span></span> (<a href="/wiki/Washington_Wizards" title="Washington Wizards">Washington Wizards</a>) <small>(1/1)</small></td>
+<td><span class="sortkey">Harden, James</span><span class="vcard"><span class="fn"><a href="/wiki/James_Harden" title="James Harden">James Harden</a></span></span> (<a href="/wiki/Houston_Rockets" title="Houston Rockets">Houston Rockets</a>) <small>(1/2)</small></td>
+<td align="center"><sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>38<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td align="center"><span class="sortkey">08</span>Dec. 15&#160;– Dec. 21</td>
+<td><span class="sortkey">Horford, Al</span><span class="vcard"><span class="fn"><a href="/wiki/Al_Horford" title="Al Horford">Al Horford</a></span></span> (<a href="/wiki/Atlanta_Hawks" title="Atlanta Hawks">Atlanta Hawks</a>) <small>(1/1)</small></td>
+<td><span class="sortkey">Aldridge, LaMarcus</span><span class="vcard"><span class="fn"><a href="/wiki/LaMarcus_Aldridge" title="LaMarcus Aldridge">LaMarcus Aldridge</a></span></span> (<a href="/wiki/Portland_Trail_Blazers" title="Portland Trail Blazers">Portland Trail Blazers</a>) <small>(2/2)</small></td>
+<td align="center"><sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>39<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td align="center"><span class="sortkey">09</span>Dec. 22&#160;– Dec. 28</td>
+<td><span class="sortkey">Butler, Jimmy</span><span class="vcard"><span class="fn"><a href="/wiki/Jimmy_Butler_(basketball)" title="Jimmy Butler (basketball)">Jimmy Butler</a></span></span> (<a href="/wiki/Chicago_Bulls" title="Chicago Bulls">Chicago Bulls</a>) <small>(1/1)</small></td>
+<td><span class="sortkey">Harden, James</span><span class="vcard"><span class="fn"><a href="/wiki/James_Harden" title="James Harden">James Harden</a></span></span> (<a href="/wiki/Houston_Rockets" title="Houston Rockets">Houston Rockets</a>) <small>(2/2)</small></td>
+<td align="center"><sup id="cite_ref-40" class="reference"><a href="#cite_note-40"><span>[</span>40<span>]</span></a></sup></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Players_of_the_month">Players of the month</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=18" title="Edit section: Players of the month">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The following Players were named the Eastern and Western Conference Players of the month.</p>
+<table class="wikitable sortable" style="text-align:left">
+<tr>
+<th width="120px">Month</th>
+<th width="300px">Eastern Conference</th>
+<th width="300px">Western Conference</th>
+<th class="unsortable">Ref.</th>
+</tr>
+<tr>
+<td align="center"><span class="sortkey">01</span>November</td>
+<td><span class="sortkey">Butler, Jimmy</span><span class="vcard"><span class="fn"><a href="/wiki/Jimmy_Butler_(basketball)" title="Jimmy Butler (basketball)">Jimmy Butler</a></span></span> (<a href="/wiki/Chicago_Bulls" title="Chicago Bulls">Chicago Bulls</a>) <small>(1/1)</small></td>
+<td><span class="sortkey">Curry, Stephen</span><span class="vcard"><span class="fn"><a href="/wiki/Stephen_Curry_(basketball)" title="Stephen Curry (basketball)">Stephen Curry</a></span></span> (<a href="/wiki/Golden_State_Warriors" title="Golden State Warriors">Golden State Warriors</a>) <small>(1/1)</small></td>
+<td align="center"><sup id="cite_ref-41" class="reference"><a href="#cite_note-41"><span>[</span>41<span>]</span></a></sup></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Rookies_of_the_month">Rookies of the month</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=19" title="Edit section: Rookies of the month">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The following Players were named the Eastern and Western Conference Rookies of the month.</p>
+<table class="wikitable sortable" style="text-align:left">
+<tr>
+<th width="120px">Month</th>
+<th width="300px">Eastern Conference</th>
+<th width="300px">Western Conference</th>
+<th class="unsortable">Ref.</th>
+</tr>
+<tr>
+<td align="center"><span class="sortkey">01</span>November</td>
+<td><span class="sortkey">Parker, Jabari</span><span class="vcard"><span class="fn"><a href="/wiki/Jabari_Parker" title="Jabari Parker">Jabari Parker</a></span></span> (<a href="/wiki/Milwaukee_Bucks" title="Milwaukee Bucks">Milwaukee Bucks</a>) <small>(1/1)</small></td>
+<td><span class="sortkey">Wiggins, Andrew</span><span class="vcard"><span class="fn"><a href="/wiki/Andrew_Wiggins" title="Andrew Wiggins">Andrew Wiggins</a></span></span> (<a href="/wiki/Minnesota_Timberwolves" title="Minnesota Timberwolves">Minnesota Timberwolves</a>) <small>(1/1)</small></td>
+<td align="center"><sup id="cite_ref-42" class="reference"><a href="#cite_note-42"><span>[</span>42<span>]</span></a></sup></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Coaches_of_the_month">Coaches of the month</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=20" title="Edit section: Coaches of the month">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The following coaches were named the Eastern and Western Conference Coaches of the month.</p>
+<table class="wikitable sortable" style="text-align:left">
+<tr>
+<th width="120px">Month</th>
+<th width="300px">Eastern Conference</th>
+<th width="300px">Western Conference</th>
+<th class="unsortable">Ref.</th>
+</tr>
+<tr>
+<td align="center"><span class="sortkey">01</span>November</td>
+<td><span class="sortkey">Casey, Dwane</span><span class="vcard"><span class="fn"><a href="/wiki/Dwane_Casey" title="Dwane Casey">Dwane Casey</a></span></span> (<a href="/wiki/Toronto_Raptors" title="Toronto Raptors">Toronto Raptors</a>) <small>(1/1)</small></td>
+<td><span class="sortkey">Joerger, David</span><span class="vcard"><span class="fn"><a href="/wiki/David_Joerger" title="David Joerger">David Joerger</a></span></span> (<a href="/wiki/Memphis_Grizzlies" title="Memphis Grizzlies">Memphis Grizzlies</a>) <small>(1/1)</small></td>
+<td align="center"><sup id="cite_ref-43" class="reference"><a href="#cite_note-43"><span>[</span>43<span>]</span></a></sup></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Playoffs">Playoffs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=21" title="Edit section: Playoffs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The 2015 NBA playoffs will begin on Saturday, April 18, 2015 and will conclude with the <a href="/wiki/2015_NBA_Finals" title="2015 NBA Finals" class="mw-redirect">2015 NBA Finals</a> which will begin on June 4, 2015 on ABC. <a href="/wiki/ESPN" title="ESPN">ESPN</a> will broadcast the <a href="/wiki/NBA_Conference_Finals" title="NBA Conference Finals">Western Conference Finals</a> and <a href="/wiki/TNT_(TV_channel)" title="TNT (TV channel)">TNT</a> will broadcast the <a href="/wiki/NBA_Conference_Finals" title="NBA Conference Finals">Eastern Conference Finals</a>. ABC will broadcast the NBA Finals.</p>
+<h2><span class="mw-headline" id="Notable_occurrences">Notable occurrences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=22" title="Edit section: Notable occurrences">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references or sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(October 2014)</i></small></span></td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/LeBron_James" title="LeBron James">LeBron James</a> returned to his home state of <a href="/wiki/Ohio" title="Ohio">Ohio</a> and the <a href="/wiki/Cleveland_Cavaliers" title="Cleveland Cavaliers">Cleveland Cavaliers</a> after four years with the <a href="/wiki/Miami_Heat" title="Miami Heat">Miami Heat</a>. James controversially announced his departure from Cleveland in a nationally televised special - <a href="/wiki/The_Decision_(TV_special)" title="The Decision (TV special)">The Decision</a> - on July 8, 2010.</li>
+<li>The Charlotte Bobcats were renamed the <a href="/wiki/Charlotte_Hornets" title="Charlotte Hornets">Charlotte Hornets</a> on May 20, 2014 to begin the 2014–15 season.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44"><span>[</span>44<span>]</span></a></sup> The newly established Hornets retain the 10 year history of the Bobcats, as well as regain the original Charlotte Hornets team records from the <a href="/wiki/1988%E2%80%9389_NBA_season" title="1988–89 NBA season">1988–89 NBA season</a> through the <a href="/wiki/2001%E2%80%9302_NBA_season" title="2001–02 NBA season">2001–02 NBA season</a>. The <a href="/wiki/New_Orleans_Pelicans" title="New Orleans Pelicans">New Orleans Pelicans</a> retain the remaining history that exists under the New Orleans Hornets name from the <a href="/wiki/2002%E2%80%9303_NBA_season" title="2002–03 NBA season">2002–03 NBA season</a> through the <a href="/wiki/2012%E2%80%9313_NBA_season" title="2012–13 NBA season">2012–13 NBA season</a> including the New Orleans/Oklahoma City Hornets name from the <a href="/wiki/2005%E2%80%9306_NBA_season" title="2005–06 NBA season">2005–06 NBA season</a> through the <a href="/wiki/2006%E2%80%9307_NBA_season" title="2006–07 NBA season">2006–07 NBA season</a>.</li>
+<li>The <a href="/wiki/Cleveland_Cavaliers" title="Cleveland Cavaliers">Cleveland Cavaliers</a> won the #1 pick in the NBA draft for the second year in a row, as well as the third time in four years and the sixth time in franchise history. It also ties the lowest percentage possible in the modern-day draft lottery with the <a href="/wiki/Chicago_Bulls" title="Chicago Bulls">Chicago Bulls</a> back in <a href="/wiki/2008_NBA_draft" title="2008 NBA draft">2008</a>, as well as marks the second time one team got the #1 draft pick for the second year in a row. Their selection was <a href="/wiki/Andrew_Wiggins" title="Andrew Wiggins">Andrew Wiggins</a>, the second straight <a href="/wiki/Canadian" title="Canadian" class="mw-redirect">Canadian</a> player to be selected as the No. 1 pick.</li>
+<li>The <a href="/wiki/Houston_Rockets" title="Houston Rockets">Houston Rockets</a> and the <a href="/wiki/Minnesota_Timberwolves" title="Minnesota Timberwolves">Minnesota Timberwolves</a> played at the <a href="/wiki/Mexico_City_Arena" title="Mexico City Arena">Mexico City Arena</a> on November 12, 2014, while the <a href="/wiki/New_York_Knicks" title="New York Knicks">New York Knicks</a> and the <a href="/wiki/Milwaukee_Bucks" title="Milwaukee Bucks">Milwaukee Bucks</a> will play at <a href="/wiki/The_O2_Arena" title="The O2 Arena">The O2 Arena</a> in <a href="/wiki/London" title="London">London</a> on January 15, 2015. The <a href="/wiki/Toronto_Raptors" title="Toronto Raptors">Toronto Raptors</a> and the <a href="/wiki/New_York_Knicks" title="New York Knicks">New York Knicks</a> will play at the <a href="/wiki/Bell_Centre" title="Bell Centre">Bell Centre</a> in <a href="/wiki/Montreal" title="Montreal">Montreal</a> on October 24, 2014 and the <a href="/wiki/Toronto_Raptors" title="Toronto Raptors">Toronto Raptors</a> and the <a href="/wiki/Sacramento_Kings" title="Sacramento Kings">Sacramento Kings</a> played at the <a href="/wiki/Rogers_Arena" title="Rogers Arena">Rogers Arena</a> in <a href="/wiki/Vancouver" title="Vancouver">Vancouver</a> on October 5, 2014 during the pre-season.</li>
+<li>The <a href="/wiki/Toronto_Raptors" title="Toronto Raptors">Toronto Raptors</a> and <a href="/wiki/Memphis_Grizzlies" title="Memphis Grizzlies">Memphis Grizzlies</a> will celebrate their 20th anniversaries as franchises in the <a href="/wiki/NBA" title="NBA" class="mw-redirect">NBA</a>, although the latter was formerly known as the <a href="/wiki/Vancouver_Grizzlies" title="Vancouver Grizzlies">Vancouver Grizzlies</a>.</li>
+<li>Both top selections Andrew Wiggins and <a href="/wiki/Anthony_Bennett_(basketball)" title="Anthony Bennett (basketball)">Anthony Bennett</a> were traded to the <a href="/wiki/Minnesota_Timberwolves" title="Minnesota Timberwolves">Minnesota Timberwolves</a> for <a href="/wiki/Kevin_Love" title="Kevin Love">Kevin Love</a> on <a href="/wiki/August_23rd" title="August 23rd" class="mw-redirect">August 23rd, 2014</a>, the soonest date allowed by Wiggins signing his rookie contract 30 days earlier. The trade of Wiggins also marked the second time since the <a href="/wiki/NBA-ABA_merger" title="NBA-ABA merger" class="mw-redirect">NBA-ABA merger</a> that a #1 draft pick would be traded to another team without playing for the team he was initially drafted by.</li>
+<li>The <a href="/wiki/San_Antonio_Spurs" title="San Antonio Spurs">San Antonio Spurs</a> made history by hiring <a href="/wiki/Becky_Hammon" title="Becky Hammon">Becky Hammon</a> as the first full-time female assistant coach in any of the <a href="/wiki/Major_professional_sports_leagues_in_the_United_States_and_Canada" title="Major professional sports leagues in the United States and Canada">four major U.S. professional sports leagues</a>. Hammon, a guard for the <a href="/wiki/Women%27s_National_Basketball_Association" title="Women's National Basketball Association">WNBA</a>'s <a href="/wiki/San_Antonio_Stars" title="San Antonio Stars">San Antonio Stars</a>, joined the Spurs coaching staff upon her retirement at the conclusion of the <a href="/wiki/2014_WNBA_season" title="2014 WNBA season">2014 WNBA season</a>.</li>
+<li>During the month of September, <a href="/wiki/Atlanta_Hawks" title="Atlanta Hawks">Atlanta Hawks</a> co-owner Bruce Levenson would end up selling his share of the Hawks after self-reporting an e-mail he received that was considered inappropriate and potentially racist back in 2012. Around that same time, general manager <a href="/wiki/Danny_Ferry" title="Danny Ferry">Danny Ferry</a> would leak out remarks that player <a href="/wiki/Luol_Deng" title="Luol Deng">Luol Deng</a> "had a bit of African in him" from a transcript he received, which would eventually result in Ferry taking an indefinite leave of absence and having coach <a href="/wiki/Mike_Budenholzer" title="Mike Budenholzer">Mike Budenholzer</a> taking on the job until his potential return.</li>
+<li>On September 29, 2014, the <a href="/wiki/Phoenix_Suns" title="Phoenix Suns">Phoenix Suns</a> became the first team to have two different sets of brothers playing on the same team, with <a href="/wiki/Goran_Dragi%C4%87" title="Goran Dragić">Goran Dragić</a>'s younger brother <a href="/wiki/Zoran_Dragi%C4%87" title="Zoran Dragić">Zoran</a> signing on a two year deal and both twin brothers <a href="/wiki/Markieff_Morris" title="Markieff Morris">Markieff</a> and <a href="/wiki/Marcus_Morris_(basketball)" title="Marcus Morris (basketball)">Marcus Morris</a> both getting four year contract extensions from the team. All four of these players would first end up playing in the same game in a loss to the <a href="/wiki/Los_Angeles_Clippers" title="Los Angeles Clippers">Los Angeles Clippers</a> on November 15, 2014, while both pairs of brothers would end up playing together at the same time late in the fourth quarter in a 112-96 victory over the <a href="/wiki/Philadelphia_76ers" title="Philadelphia 76ers">Philadelphia 76ers</a> on January 2, 2015.</li>
+<li>On October 6, 2014, the NBA announced a new TV deal with <a href="/wiki/ESPN" title="ESPN">ESPN</a> and <a href="/wiki/TNT_(TV_channel)" title="TNT (TV channel)">TNT</a> that's worth $24 billion on a 9 year deal. Starting in the <a href="/wiki/2015%E2%80%9316_NBA_season" title="2015–16 NBA season" class="mw-redirect">2015–16 NBA season</a>, the NBA's value would go from $930 million to $2.6 billion per year, which would also increase each team's salary cap from $63 million to around $88.8 million. In addition to that, the NBA also announced that starting this season, the league will host an end-of-season award show on TNT to replace the time spent on giving out certain awards in sometimes awkward situations.</li>
+<li>On October 19, 2014, the <a href="/wiki/Brooklyn_Nets" title="Brooklyn Nets">Brooklyn Nets</a> and the <a href="/wiki/Boston_Celtics" title="Boston Celtics">Boston Celtics</a> played a pre-season game that consisted of four 11 minute quarters, instead of the regular 12 minute quarters, which decreased the overall amount of playing time to around two hours. Boston won the game 95-90.</li>
+<li>The NBA logo assumes a new position on team jerseys, moving from the top left chest in front to the back atop a player's name.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45"><span>[</span>45<span>]</span></a></sup><sup id="cite_ref-46" class="reference"><a href="#cite_note-46"><span>[</span>46<span>]</span></a></sup><sup id="cite_ref-47" class="reference"><a href="#cite_note-47"><span>[</span>47<span>]</span></a></sup> In addition, teams who have won a championship will have their uniforms adorned with a gold patch on the back, featuring the number of championships won.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48"><span>[</span>48<span>]</span></a></sup></li>
+<li>In spite of a 17–13 majority voting for a new lottery reform that would have taken effect immediately, the NBA declines the opportunity to change the lottery that makes the worst 4 teams hold equal odds for the #1 pick and gives middling teams a better chance at a Top 6 pick.</li>
+<li>The NBA also implements and debuts a replay center in <a href="/wiki/Secaucus,_New_Jersey" title="Secaucus, New Jersey">Secaucus, New Jersey</a> on October 28, 2014. Its purpose is to make sure the NBA's replays on questionable calls faster for the referees when making the final decision.</li>
+<li>For the second time this season, the league again experimented on-court <a href="/wiki/Advertising" title="Advertising">advertising</a>. The <a href="/wiki/New_York_Knicks" title="New York Knicks">New York Knicks</a>, the <a href="/wiki/Miami_Heat" title="Miami Heat">Miami Heat</a>, the <a href="/wiki/Golden_State_Warriors" title="Golden State Warriors">Golden State Warriors</a> and the <a href="/wiki/Philadelphia_76ers" title="Philadelphia 76ers">Philadelphia 76ers</a>, which had sponsorship with <a href="/wiki/Chase_(bank)" title="Chase (bank)">Chase</a> for the Knicks, <a href="/wiki/Samsung_Electronics" title="Samsung Electronics">Samsung Electronics</a> for the Heat and Warriors and <a href="/wiki/Bwin.Party_Digital_Entertainment" title="Bwin.Party Digital Entertainment">PartyPoker.com</a> for Sixers are now removed and now replaced with the website and/or <a href="/wiki/Twitter" title="Twitter">Twitter</a> handles of the team, while the <a href="/wiki/Indiana_Pacers" title="Indiana Pacers">Indiana Pacers</a> and the <a href="/wiki/Toronto_Raptors" title="Toronto Raptors">Toronto Raptors</a> retain marquee sponsorship with the <a href="/wiki/Indiana_Economic_Development_Corporation" title="Indiana Economic Development Corporation">Indiana Economic Development Corporation</a> for the Pacers and <a href="/wiki/Bank_of_Montreal" title="Bank of Montreal">Bank of Montreal</a> for the Raptors respectively. Meanwhile, additional teams join in the experiment. The <a href="/wiki/Houston_Rockets" title="Houston Rockets">Houston Rockets</a> court at the <a href="/wiki/Toyota_Center" title="Toyota Center">Toyota Center</a> will be sponsored by <a href="/wiki/ZTE" title="ZTE">ZTE</a> to promote its smartphones.<sup id="cite_ref-49" class="reference"><a href="#cite_note-49"><span>[</span>49<span>]</span></a></sup><sup id="cite_ref-50" class="reference"><a href="#cite_note-50"><span>[</span>50<span>]</span></a></sup> The <a href="/wiki/Orlando_Magic" title="Orlando Magic">Orlando Magic</a> court at <a href="/wiki/Amway_Center" title="Amway Center">Amway Center</a> will be sponsored by <a href="/wiki/FanDuel" title="FanDuel">FanDuel</a>,<sup id="cite_ref-51" class="reference"><a href="#cite_note-51"><span>[</span>51<span>]</span></a></sup> while the <a href="/wiki/Brooklyn_Nets" title="Brooklyn Nets">Brooklyn Nets</a> court at <a href="/wiki/Barclays_Center" title="Barclays Center">Barclays Center</a> will be sponsored by AirFastTickets, a ticketing company based in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>. The <a href="/wiki/Charlotte_Hornets" title="Charlotte Hornets">Charlotte Hornets</a> court at the <a href="/wiki/Time_Warner_Cable_Arena" title="Time Warner Cable Arena">Time Warner Cable Arena</a> will be sponsored by <a href="/wiki/Novant_Health" title="Novant Health">Novant Health</a>, and the <a href="/wiki/Utah_Jazz" title="Utah Jazz">Utah Jazz</a>'s court at the <a href="/wiki/EnergySolutions_Arena" title="EnergySolutions Arena">EnergySolutions Arena</a> will be sponsored by United Fuel Supply, a oil company based in <a href="/wiki/Salt_Lake_City" title="Salt Lake City">Salt Lake City</a> and established in 2011.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52"><span>[</span>52<span>]</span></a></sup></li>
+<li>On November 1, 2014, <a href="/wiki/Carmelo_Anthony" title="Carmelo Anthony">Carmelo Anthony</a> surpassed 20,000 career points, becoming the 40th player in NBA history to do so. He reached the milestone in the 1st quarter of a 96-93 home win against the <a href="/wiki/Charlotte_Hornets" title="Charlotte Hornets">Charlotte Hornets</a>.</li>
+<li>On November 11, 2014, <a href="/wiki/Dirk_Nowitzki" title="Dirk Nowitzki">Dirk Nowitzki</a> surpassed <a href="/wiki/Hakeem_Olajuwon" title="Hakeem Olajuwon">Hakeem Olajuwon</a> as the highest-scoring player born outside the United States and the 9th all-time scoring leader, as the Mavericks came from behind 24 points down to beat Sacramento 106–98 for their 21st straight regular-season win at home against the Kings. Nowitzki hit a jumper from just inside the three-point line early in the fourth quarter to pass Olajuwon at No. 9, and he finished the night at 26,953 career points.<sup id="cite_ref-53" class="reference"><a href="#cite_note-53"><span>[</span>53<span>]</span></a></sup></li>
+<li>On November 12, 2014, <a href="/wiki/Kobe_Bryant" title="Kobe Bryant">Kobe Bryant</a> surpassed <a href="/wiki/John_Havlicek" title="John Havlicek">John Havlicek</a> and became the all-time leader for missed field goal attempts in the league. His career-breaking record 13,418th missed shot came at 6:22 in the fourth quarter with a missed 14-foot fadeaway in a 107-102 loss on the road against the <a href="/wiki/Memphis_Grizzlies" title="Memphis Grizzlies">Memphis Grizzlies</a>.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54"><span>[</span>54<span>]</span></a></sup></li>
+<li>On November 13, 2014, the <a href="/wiki/Dallas_Mavericks" title="Dallas Mavericks">Dallas Mavericks</a> were leading by 44 at halftime over the <a href="/wiki/Philadelphia_76ers" title="Philadelphia 76ers">Philadelphia 76ers</a>, tying for the 2nd-highest leading margin in NBA History at halftime.</li>
+<li>On December 2, 2014, the <a href="/wiki/Phoenix_Suns" title="Phoenix Suns">Phoenix Suns</a> would announce that as of the end of this season, the venue that they'd play under (the <a href="/wiki/US_Airways_Center" title="US Airways Center" class="mw-redirect">US Airways Center</a>) would be renamed as the <a href="/wiki/Talking_Stick_Resort_Arena" title="Talking Stick Resort Arena">Talking Stick Resort Arena</a>.</li>
+<li>On December 3, 2014, the <a href="/wiki/Philadelphia_76ers" title="Philadelphia 76ers">Philadelphia 76ers</a> and <a href="/wiki/Minnesota_Timberwolves" title="Minnesota Timberwolves">Minnesota Timberwolves</a> would create the first ever <a href="/wiki/Mulligan" title="Mulligan" class="mw-disambig">mulligan</a> during a start of an official NBA game by removing the first 16 seconds where the 76ers gained possession and drew a foul against the Timberwolves. The 76ers would also gain their first victory of the season in that game.</li>
+<li>On December 13, 2014, <a href="/wiki/Dwight_Howard" title="Dwight Howard">Dwight Howard</a> reached 10,000 career rebounds.<sup id="cite_ref-55" class="reference"><a href="#cite_note-55"><span>[</span>55<span>]</span></a></sup></li>
+<li>On December 14, 2014, <a href="/wiki/Kobe_Bryant" title="Kobe Bryant">Kobe Bryant</a> surpassed <a href="/wiki/Michael_Jordan" title="Michael Jordan">Michael Jordan</a> for third place on the all-time scoring list. He'd reach that mark at 5:24 in the second quarter in a road game against the <a href="/wiki/Minnesota_Timberwolves" title="Minnesota Timberwolves">Minnesota Timberwolves</a> by making two free-throw shots. Kobe would score 9 points to surpass him and a total of 26 points in the Lakers' 100-94 victory over Minnesota.</li>
+<li>On December 18, 2014, <a href="/wiki/Rajon_Rondo" title="Rajon Rondo">Rajon Rondo</a> and rookie <a href="/wiki/Dwight_Powell" title="Dwight Powell">Dwight Powell</a> would be traded to the <a href="/wiki/Dallas_Mavericks" title="Dallas Mavericks">Dallas Mavericks</a> in exchange for the <a href="/wiki/Boston_Celtics" title="Boston Celtics">Boston Celtics</a> receiving <a href="/wiki/Brandan_Wright" title="Brandan Wright">Brandan Wright</a>, <a href="/wiki/Jae_Crowder" title="Jae Crowder">Jae Crowder</a>, <a href="/wiki/Jameer_Nelson" title="Jameer Nelson">Jameer Nelson</a>, a 2015 first round draft pick, and a future second round draft pick.</li>
+<li>On December 22, 2014, the Detroit Pistons waived <a href="/wiki/Josh_Smith" title="Josh Smith">Josh Smith</a>, despite signing him to a four-year, $54 million contract in July 2013.<sup id="cite_ref-56" class="reference"><a href="#cite_note-56"><span>[</span>56<span>]</span></a></sup> Smith would end up signing with the <a href="/wiki/Houston_Rockets" title="Houston Rockets">Houston Rockets</a> two days later in exchange for the removal of undrafted rookie <a href="/wiki/Tarik_Black" title="Tarik Black">Tarik Black</a>. In Smith 's debut with the Rockets, he'd record 21 points and 8 rebounds in 32 minutes under a 117–111 overtime victory over the <a href="/wiki/Memphis_Grizzlies" title="Memphis Grizzlies">Memphis Grizzlies</a> on December 26, 2014.</li>
+<li>The <a href="/wiki/Miami_Heat" title="Miami Heat">Miami Heat</a> defeated the <a href="/wiki/Cleveland_Cavaliers" title="Cleveland Cavaliers">Cleveland Cavaliers</a> 101–91 on Christmas Day, spoiling <a href="/wiki/LeBron_James" title="LeBron James">LeBron James</a>' return to Miami, where he previously led the Heat to the <a href="/wiki/NBA_Finals" title="NBA Finals">NBA Finals</a> in each of his four seasons, winning two of them in 2012 and 2013.</li>
+<li>On December 26, 2014, <a href="/wiki/Dirk_Nowitzki" title="Dirk Nowitzki">Dirk Nowitzki</a> would surpass <a href="/wiki/Elvin_Hayes" title="Elvin Hayes">Elvin Hayes</a> to become the 8th best all-time scorer in the NBA. He'd score 14 points in the Mavericks' close 102–98 victory over the <a href="/wiki/Los_Angeles_Lakers" title="Los Angeles Lakers">Los Angeles Lakers</a>. During that same day, <a href="/wiki/Jared_Dudley" title="Jared Dudley">Jared Dudley</a> would be the first ever player to be perfect while shooting at least 10 baskets and 3 three-point shots as he'd score 24 points off of 10/10 shooting (4/4 from the three-point line) in the <a href="/wiki/Milwaukee_Bucks" title="Milwaukee Bucks">Milwaukee Bucks</a>' 107-77 blowout victory over the <a href="/wiki/Atlanta_Hawks" title="Atlanta Hawks">Atlanta Hawks</a>.</li>
+<li>On January 2, 2015, an agreement was put in place by the <a href="/wiki/Atlanta_Hawks" title="Atlanta Hawks">Atlanta Hawks</a> ownership to sell the franchise.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=23" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/File:Map_of_USA_and_Canada,_NBA,_zoom.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Map_of_USA_and_Canada%2C_NBA%2C_zoom.svg/32px-Map_of_USA_and_Canada%2C_NBA%2C_zoom.svg.png" width="32" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Map_of_USA_and_Canada%2C_NBA%2C_zoom.svg/48px-Map_of_USA_and_Canada%2C_NBA%2C_zoom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Map_of_USA_and_Canada%2C_NBA%2C_zoom.svg/64px-Map_of_USA_and_Canada%2C_NBA%2C_zoom.svg.png 2x" data-file-width="1100" data-file-height="780" /></a> <a href="/wiki/Portal:National_Basketball_Association" title="Portal:National Basketball Association">National Basketball Association portal</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=24" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://espn.go.com/new-york/nba/story/_/id/11057518/derek-fisher-reaches-agreement-become-coach-new-york-knicks">[1]</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://bleacherreport.com/articles/2098340-shane-battier-officially-retires-from-nba-after-13-year-career">[2]</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://hangtime.blogs.nba.com/2014/06/22/report-knicks-anthony-will-opt-out-become-free-agent-july-1/?ls=iref:nbahppt">"Report: KNICKS’ ANTHONY WILL OPT-OUT, BECOME FREE AGENT JULY 1"</a>. <i>NBA.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 June</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Report%3A+KNICKS%E2%80%99+ANTHONY+WILL+OPT-OUT%2C+BECOME+FREE+AGENT+JULY+1&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fhangtime.blogs.nba.com%2F2014%2F06%2F22%2Freport-knicks-anthony-will-opt-out-become-free-agent-july-1%2F%3Fls%3Diref%3Anbahppt&amp;rft.jtitle=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://hangtime.blogs.nba.com/2014/06/24/reports-lebron-opts-out-of-deal-with-heat/?cid=nbaontntsocial_20140624_26590606">"Report: REPORTS: LEBRON OPTS OUT OF DEAL"</a>. <i>NBA.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 June</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Report%3A+REPORTS%3A+LEBRON+OPTS+OUT+OF+DEAL&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fhangtime.blogs.nba.com%2F2014%2F06%2F24%2Freports-lebron-opts-out-of-deal-with-heat%2F%3Fcid%3Dnbaontntsocial_20140624_26590606&amp;rft.jtitle=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://espn.go.com/nba/truehoop/miamiheat/story/_/id/11182829/agent-says-dwyane-wade-chris-bosh-continue-weigh-options-free-agency">Agent says Dwyane Wade, Chris Bosh continue to way options in free agency - ESPN</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation web">James, LeBron (July 11, 2014). <a rel="nofollow" class="external text" href="http://www.si.com/nba/2014/07/11/lebron-james-cleveland-cavaliers">"I'm Coming Home"</a>. <i><a href="/wiki/Sports_Illustrated" title="Sports Illustrated">Sports Illustrated</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 11,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.aufirst=LeBron&amp;rft.au=James%2C+LeBron&amp;rft.aulast=James&amp;rft.btitle=I%27m+Coming+Home&amp;rft.date=July+11%2C+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.si.com%2Fnba%2F2014%2F07%2F11%2Flebron-james-cleveland-cavaliers&amp;rft.pub=%27%27Sports+Illustrated%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/2014/news/07/12/gasol-joins-bulls.ap/index.html">"Gasol tweets he's joining the Chicago Bulls"</a>. <a href="/wiki/NBA" title="NBA" class="mw-redirect">NBA</a>. July 12, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">July 12,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.btitle=Gasol+tweets+he%27s+joining+the+Chicago+Bulls&amp;rft.date=July+12%2C+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nba.com%2F2014%2Fnews%2F07%2F12%2Fgasol-joins-bulls.ap%2Findex.html&amp;rft.pub=NBA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/2014/news/07/12/suns-add-isaiah-thomas.ap/index.html">"Suns acquire Isaiah Thomas in sign-and-trade"</a>. <a href="/wiki/NBA" title="NBA" class="mw-redirect">NBA</a>. July 12, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">July 12,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.btitle=Suns+acquire+Isaiah+Thomas+in+sign-and-trade&amp;rft.date=July+12%2C+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nba.com%2F2014%2Fnews%2F07%2F12%2Fsuns-add-isaiah-thomas.ap%2Findex.html&amp;rft.pub=NBA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://espn.go.com/nba/truehoop/miamiheat/story/_/id/11204568/chris-bosh-miami-heat-finalizing-new-contract">"Heat lock up Bosh, push for Wade"</a>. <a href="/wiki/ESPN" title="ESPN">ESPN</a>. July 12, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">July 12,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.btitle=Heat+lock+up+Bosh%2C+push+for+Wade&amp;rft.date=July+12%2C+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fespn.go.com%2Fnba%2Ftruehoop%2Fmiamiheat%2Fstory%2F_%2Fid%2F11204568%2Fchris-bosh-miami-heat-finalizing-new-contract&amp;rft.pub=ESPN&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nydailynews.com/sports/basketball/knicks/carmelo-anthony-knicks-working-final-details-new-deal-article-1.1864375">"Carmelo Anthony tells Knicks he is coming back to New York; two sides working out final details of new contract"</a>. Frank Isola. July 13, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">July 13,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.btitle=Carmelo+Anthony+tells+Knicks+he+is+coming+back+to+New+York%3B+two+sides+working+out+final+details+of+new+contract&amp;rft.date=July+13%2C+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nydailynews.com%2Fsports%2Fbasketball%2Fknicks%2Fcarmelo-anthony-knicks-working-final-details-new-deal-article-1.1864375&amp;rft.pub=Frank+Isola&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.sbnation.com/nba/2014/7/13/5894757/paul-pierce-contract-wizards-2014-nba-free-agency">"Paul Pierce agrees to a 2-year, $11 million deal with the Wizards"</a>. Mark Sandritter. July 13, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">July 13,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.btitle=Paul+Pierce+agrees+to+a+2-year%2C+%2411+million+deal+with+the+Wizards&amp;rft.date=July+13%2C+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.sbnation.com%2Fnba%2F2014%2F7%2F13%2F5894757%2Fpaul-pierce-contract-wizards-2014-nba-free-agency&amp;rft.pub=Mark+Sandritter&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/heat/news/heat-re-signs-dwyane-wade">"HEAT Re-Signs Dwyane Wade"</a>. <i>NBA.com</i>. Turner Sports Interactive, Inc. July 15, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">July 15,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=HEAT+Re-Signs+Dwyane+Wade&amp;rft.date=July+15%2C+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nba.com%2Fheat%2Fnews%2Fheat-re-signs-dwyane-wade&amp;rft.jtitle=NBA.com&amp;rft.pub=Turner+Sports+Interactive%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://knicksnow.com/posts/5693/coaching-staff-relieved-of-duties#.U1XUYlWSwmw">"Coaching Staff Relieved Of Duties"</a>. <i>NBA.com</i>. Turner Sports Interactive, Inc. April 21, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">April 21,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Coaching+Staff+Relieved+Of+Duties&amp;rft.date=April+21%2C+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fknicksnow.com%2Fposts%2F5693%2Fcoaching-staff-relieved-of-duties%23.U1XUYlWSwmw&amp;rft.jtitle=NBA.com&amp;rft.pub=Turner+Sports+Interactive%2C+Inc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/timberwolves/news/rick-adelman-announces-coaching-retirement">"Rick Adelman Announces Coaching Retirement"</a>. <i>NBA.com</i>. Turner Sports Interactive, Inc. April 21, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">April 21,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Rick+Adelman+Announces+Coaching+Retirement&amp;rft.date=April+21%2C+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nba.com%2Ftimberwolves%2Fnews%2Frick-adelman-announces-coaching-retirement&amp;rft.jtitle=NBA.com&amp;rft.pub=Turner+Sports+Interactive%2C+Inc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/jazz/news/utah-jazz-will-not-offer-tyrone-corbin-new-contract">"Utah Jazz Will Not Offer Tyrone Corbin a New Contract"</a>. <i>NBA.com</i>. Turner Sports Interactive, Inc. April 21, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">April 21,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Utah+Jazz+Will+Not+Offer+Tyrone+Corbin+a+New+Contract&amp;rft.date=April+21%2C+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nba.com%2Fjazz%2Fnews%2Futah-jazz-will-not-offer-tyrone-corbin-new-contract&amp;rft.jtitle=NBA.com&amp;rft.pub=Turner+Sports+Interactive%2C+Inc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/lakers/releases/140430dantoni_resigns">"Lakers Head Coach Mike D'Antoni Resigns"</a>. <i>NBA.com</i>. Turner Sports Interactive, Inc. April 30, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">April 30,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Lakers+Head+Coach+Mike+D%27Antoni+Resigns&amp;rft.date=April+30%2C+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nba.com%2Flakers%2Freleases%2F140430dantoni_resigns&amp;rft.jtitle=NBA.com&amp;rft.pub=Turner+Sports+Interactive%2C+Inc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/warriors/news/jackson-relieved-duties-20140506">"Warriors Relieve Head Coach Mark Jackson of His Duties"</a>. <i>NBA.com</i>. May 6, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">May 6,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Warriors+Relieve+Head+Coach+Mark+Jackson+of+His+Duties&amp;rft.date=May+6%2C+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nba.com%2Fwarriors%2Fnews%2Fjackson-relieved-duties-20140506&amp;rft.jtitle=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/2014/news/05/12/cavaliers-release-mike-brown">"Cavaliers release head coach Mike Brown"</a>. <i>NBA.com</i>. May 12, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">May 12,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Cavaliers+release+head+coach+Mike+Brown&amp;rft.date=May+12%2C+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nba.com%2F2014%2Fnews%2F05%2F12%2Fcavaliers-release-mike-brown&amp;rft.jtitle=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/2014/news/05/14/pistons-van-gundy.ap/index.html?ls=iref:nbahpts">"Stan Van Gundy hired by Pistons as coach, president"</a>. <i>NBA.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 May</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Stan+Van+Gundy+hired+by+Pistons+as+coach%2C+president&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nba.com%2F2014%2Fnews%2F05%2F14%2Fpistons-van-gundy.ap%2Findex.html%3Fls%3Diref%3Anbahpts&amp;rft.jtitle=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/warriors/news/warriors-name-steve-kerr-head-coach">"Warriors Name Steve Kerr Head Coach"</a>. <i>NBA.com</i>. Turner Sports Interactive, Inc. May 19, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">May 19,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Warriors+Name+Steve+Kerr+Head+Coach&amp;rft.date=May+19%2C+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nba.com%2Fwarriors%2Fnews%2Fwarriors-name-steve-kerr-head-coach&amp;rft.jtitle=NBA.com&amp;rft.pub=Turner+Sports+Interactive%2C+Inc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/timberwolves/news/flip-saunders-named-timberwolves-head-coach">"Flip Saunders Named Timberwolves Head Coach"</a>. <i>NBA.com</i>. June 6, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">June 6,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Flip+Saunders+Named+Timberwolves+Head+Coach&amp;rft.date=June+6%2C+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nba.com%2Ftimberwolves%2Fnews%2Fflip-saunders-named-timberwolves-head-coach&amp;rft.jtitle=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/jazz/news/utah-jazz-names-quin-snyder-head-coach">"Utah Jazz Names Quin Snyder Head Coach"</a>. <i>NBA.com</i>. Turner Sports Interactive, Inc. June 6, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">June 6,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Utah+Jazz+Names+Quin+Snyder+Head+Coach&amp;rft.date=June+6%2C+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nba.com%2Fjazz%2Fnews%2Futah-jazz-names-quin-snyder-head-coach&amp;rft.jtitle=NBA.com&amp;rft.pub=Turner+Sports+Interactive%2C+Inc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/knicks/news/knicks-hire-derek-fisher-head-coach">"Knicks Hire Derek Fisher As Head Coach"</a>. <i>NBA.com</i>. Turner Sports Interactive, Inc. June 10, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">June 10,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Knicks+Hire+Derek+Fisher+As+Head+Coach&amp;rft.date=June+10%2C+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nba.com%2Fknicks%2Fnews%2Fknicks-hire-derek-fisher-head-coach&amp;rft.jtitle=NBA.com&amp;rft.pub=Turner+Sports+Interactive%2C+Inc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/2014/news/06/20/cavs-reach-agreement-with-blatt.ap/index.html">"Cavaliers hire David Blatt as head coach"</a>. <i>NBA.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 June</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Cavaliers+hire+David+Blatt+as+head+coach&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nba.com%2F2014%2Fnews%2F06%2F20%2Fcavs-reach-agreement-with-blatt.ap%2Findex.html&amp;rft.jtitle=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/2014/news/06/30/kidd-heads-to-bucks.ap/index.html">"Kidd to become new coach of Bucks"</a>. <i>NBA.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">30 June</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Kidd+to+become+new+coach+of+Bucks&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nba.com%2F2014%2Fnews%2F06%2F30%2Fkidd-heads-to-bucks.ap%2Findex.html&amp;rft.jtitle=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/2014/news/07/02/hollins-to-coach-nets.ap/index.html">"Nets act quickly, tap Hollins to replace Kidd"</a>. <i>NBA.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 July</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Nets+act+quickly%2C+tap+Hollins+to+replace+Kidd&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nba.com%2F2014%2Fnews%2F07%2F02%2Fhollins-to-coach-nets.ap%2Findex.html&amp;rft.jtitle=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/2014/news/07/29/lakers-officially-hire-scott.ap/index.html?ls=iref:nbahpts">"Lakers finally confirm Byron Scott as coach"</a>. <i>NBA.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 July</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Lakers+finally+confirm+Byron+Scott+as+coach&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nba.com%2F2014%2Fnews%2F07%2F29%2Flakers-officially-hire-scott.ap%2Findex.html%3Fls%3Diref%3Anbahpts&amp;rft.jtitle=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/2014/news/12/15/kings-fire-mike-malone-wire.ap/index.html">"Kings fire coach Malone after 24 games"</a>. <i>NBA.com</i>. Turner Sports Interactive, Inc. December 15, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">December 15,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Kings+fire+coach+Malone+after+24+games&amp;rft.date=December+15%2C+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nba.com%2F2014%2Fnews%2F12%2F15%2Fkings-fire-mike-malone-wire.ap%2Findex.html&amp;rft.jtitle=NBA.com&amp;rft.pub=Turner+Sports+Interactive%2C+Inc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><span class="citation web">Rose, Bryan (July 17, 2014). <a rel="nofollow" class="external text" href="http://fansided.com/2014/07/17/cavaliers-spurs-may-open-nbas-2014-15-regular-season/#!bm76Wj">"Cavaliers, Spurs may open NBA’s 2014-15 regular season"</a>. <i>Fansided</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 17,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Cavaliers%2C+Spurs+may+open+NBA%E2%80%99s+2014-15+regular+season&amp;rft.aulast=Rose%2C+Bryan&amp;rft.au=Rose%2C+Bryan&amp;rft.date=July+17%2C+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ffansided.com%2F2014%2F07%2F17%2Fcavaliers-spurs-may-open-nbas-2014-15-regular-season%2F%23%21bm76Wj&amp;rft.jtitle=Fansided&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation news">Winderman, Ira (July 25, 2014). <a rel="nofollow" class="external text" href="http://www.sun-sentinel.com/sports/miami-heat/sfl-miami-heat-nba-schedule-s072514,0,4547367.story">"NBA looking at weeklong All-Star break in '14-15 schedule"</a>. <i><a href="/wiki/Sun-Sentinel" title="Sun-Sentinel">Sun-Sentinel</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 25,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=NBA+looking+at+weeklong+All-Star+break+in+%2714-15+schedule&amp;rft.aulast=Winderman%2C+Ira&amp;rft.au=Winderman%2C+Ira&amp;rft.date=July+25%2C+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sun-sentinel.com%2Fsports%2Fmiami-heat%2Fsfl-miami-heat-nba-schedule-s072514%2C0%2C4547367.story&amp;rft.jtitle=Sun-Sentinel&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><span class="citation web">Smith, Sekou (August 12, 2014). <a rel="nofollow" class="external text" href="http://hangtime.blogs.nba.com/2014/08/12/nba-unveils-2014-15-schedule-wednesday/">"NBA unveils 2014-15 schedule Wednesday"</a>. <i><a href="/wiki/NBA.com" title="NBA.com" class="mw-redirect">NBA.com</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 12,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=NBA+unveils+2014-15+schedule+Wednesday&amp;rft.aulast=Smith%2C+Sekou&amp;rft.au=Smith%2C+Sekou&amp;rft.date=August+12%2C+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fhangtime.blogs.nba.com%2F2014%2F08%2F12%2Fnba-unveils-2014-15-schedule-wednesday%2F&amp;rft.jtitle=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/2014/news/11/03/bosh-thompson-players-of-week/index.html">"Bosh, Thompson named Players of the Week"</a>. NBA.com. November 3, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">November 3,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.btitle=Bosh%2C+Thompson+named+Players+of+the+Week&amp;rft.date=November+3%2C+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nba.com%2F2014%2Fnews%2F11%2F03%2Fbosh-thompson-players-of-week%2Findex.html&amp;rft.pub=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/2014/news/11/10/williams-curry-players-of-week/index.html">"Williams, Curry named Players of the Week"</a>. NBA.com. November 10, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">November 10,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.btitle=Williams%2C+Curry+named+Players+of+the+Week&amp;rft.date=November+10%2C+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nba.com%2F2014%2Fnews%2F11%2F10%2Fwilliams-curry-players-of-week%2Findex.html&amp;rft.pub=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/2014/news/11/17/james-lillard-players-of-week/index.html">"LeBron, Lillard named Players of the Week"</a>. NBA.com. November 17, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">November 17,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.btitle=LeBron%2C+Lillard+named+Players+of+the+Week&amp;rft.date=November+17%2C+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nba.com%2F2014%2Fnews%2F11%2F17%2Fjames-lillard-players-of-week%2Findex.html&amp;rft.pub=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/2014/news/11/24/williams-cousins-players-of-week/index.html">"Williams, Cousins named Players of the Week"</a>. NBA.com. November 24, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">November 24,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.btitle=Williams%2C+Cousins+named+Players+of+the+Week&amp;rft.date=November+24%2C+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nba.com%2F2014%2Fnews%2F11%2F24%2Fwilliams-cousins-players-of-week%2Findex.html&amp;rft.pub=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/2014/news/12/01/lebron-griffin-players-of-week/index.html">"Cavs' James, Clips' Griffin named Players of the Week"</a>. NBA.com. December 1, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">December 1,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.btitle=Cavs%27+James%2C+Clips%27+Griffin+named+Players+of+the+Week&amp;rft.date=December+1%2C+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nba.com%2F2014%2Fnews%2F12%2F01%2Flebron-griffin-players-of-week%2Findex.html&amp;rft.pub=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/2014/news/12/08/raptors-lowry-blazers-aldridge-players-of-week/index.html">"Lowry, Aldridge named Players of the Week"</a>. NBA.com. December 8, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">December 9,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.btitle=Lowry%2C+Aldridge+named+Players+of+the+Week&amp;rft.date=December+8%2C+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nba.com%2F2014%2Fnews%2F12%2F08%2Fraptors-lowry-blazers-aldridge-players-of-week%2Findex.html&amp;rft.pub=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/2014/news/12/15/wall-harden-players-of-the-week/index.html">"Wall, Harden named Players of Week"</a>. NBA.com. December 15, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">December 15,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.btitle=Wall%2C+Harden+named+Players+of+Week&amp;rft.date=December+15%2C+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nba.com%2F2014%2Fnews%2F12%2F15%2Fwall-harden-players-of-the-week%2Findex.html&amp;rft.pub=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/2014/news/12/22/al-horford-lamarcus-aldridge-named-players-of-the-week/index.html">"Horford, Aldridge named Players of the Week"</a>. NBA.com. December 22, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">December 22,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.btitle=Horford%2C+Aldridge+named+Players+of+the+Week&amp;rft.date=December+22%2C+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nba.com%2F2014%2Fnews%2F12%2F22%2Fal-horford-lamarcus-aldridge-named-players-of-the-week%2Findex.html&amp;rft.pub=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/2014/news/12/29/butler-harden-players-of-the-week/index.html">"Bulls' Butler, Rockets' Harden named Players of the Week"</a>. NBA.com. December 29, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">December 29,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.btitle=Bulls%27+Butler%2C+Rockets%27+Harden+named+Players+of+the+Week&amp;rft.date=December+29%2C+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nba.com%2F2014%2Fnews%2F12%2F29%2Fbutler-harden-players-of-the-week%2Findex.html&amp;rft.pub=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><span class="citation web">[<a rel="nofollow" class="external free" href="http://www.nba.com/2014/news/12/03/butler-curry-kia-players-of-the-">http://www.nba.com/2014/news/12/03/butler-curry-kia-players-of-the-</a> month/index.html?ls=iref:nbahpts "Butler, Curry named Kia Players of the Month"]. NBA.com. December 3, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">December 3,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.btitle=Butler%2C+Curry+named+Kia+Players+of+the+Month&amp;rft.date=December+3%2C+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nba.com%2F2014%2Fnews%2F12%2F03%2Fbutler-curry-kia-players-of-the-%0Amonth%2Findex.html%3Fls%3Diref%3Anbahpts&amp;rft.pub=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/2014/news/12/03/rookies-of-the-month/index.html?ls=iref:nbahpts">"Parker, Wiggins named Kia Rookies of the Month"</a>. NBA.com. December 3, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">December 4,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.btitle=Parker%2C+Wiggins+named+Kia+Rookies+of+the+Month&amp;rft.date=December+3%2C+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nba.com%2F2014%2Fnews%2F12%2F03%2Frookies-of-the-month%2Findex.html%3Fls%3Diref%3Anbahpts&amp;rft.pub=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/2014/news/12/01/casey-joerger-coaches-of-month/index.html">"Raps' Casey, Grizz's Joerger named Coaches of the Month"</a>. NBA.com. December 1, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">December 1,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.btitle=Raps%27+Casey%2C+Grizz%27s+Joerger+named+Coaches+of+the+Month&amp;rft.date=December+1%2C+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nba.com%2F2014%2Fnews%2F12%2F01%2Fcasey-joerger-coaches-of-month%2Findex.html&amp;rft.pub=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/2013/news/05/21/bobcats-change-name-to-hornets/">"Jordan: Bobcats changing name to Hornets"</a>. <i>NBA.com</i>. Turner Sports Interactive, Inc. May 21, 2013.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Jordan%3A+Bobcats+changing+name+to+Hornets&amp;rft.date=May+21%2C+2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nba.com%2F2013%2Fnews%2F05%2F21%2Fbobcats-change-name-to-hornets%2F&amp;rft.jtitle=NBA.com&amp;rft.pub=Turner+Sports+Interactive%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://store.nba.com/pages/New_swingman">"New NBA Swingman Jersey Features - Guide to New 2014-2015 Swingman Jerseys"</a>. <i>National Basketball Association</i>. 19 December 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">19 December</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.btitle=New+NBA+Swingman+Jersey+Features+-+Guide+to+New+2014-2015+Swingman+Jerseys&amp;rft.date=19+December+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fstore.nba.com%2Fpages%2FNew_swingman&amp;rft.pub=%27%27National+Basketball+Association%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><span class="citation web">Lukas, Paul (19 June 2014). <a rel="nofollow" class="external text" href="http://espn.go.com/nba/story/_/id/11109976/nba-move-league-logo-back-jerseys">"NBA to move league logo to back of jerseys"</a>. <i><a href="/wiki/ESPN.com" title="ESPN.com">ESPN.com</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 June</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.aufirst=Paul&amp;rft.aulast=Lukas&amp;rft.au=Lukas%2C+Paul&amp;rft.btitle=NBA+to+move+league+logo+to+back+of+jerseys&amp;rft.date=19+June+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fespn.go.com%2Fnba%2Fstory%2F_%2Fid%2F11109976%2Fnba-move-league-logo-back-jerseys&amp;rft.pub=%27%27ESPN.com%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><span class="citation web">Soshnick, Scott (19 June 2014). <a rel="nofollow" class="external text" href="http://www.bloomberg.com/news/2014-06-19/nba-moving-logo-to-back-of-jerseys-as-owners-mull-uniform-ads.html">"NBA Moving Logo to Back of Jerseys as Owners Mull Uniform Ads"</a>. <i><a href="/wiki/Bloomberg_L.P." title="Bloomberg L.P.">Bloomberg L.P.</a></i> <span class="reference-accessdate">Retrieved <span class="nowrap">19 June</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.aufirst=Scott&amp;rft.aulast=Soshnick&amp;rft.au=Soshnick%2C+Scott&amp;rft.btitle=NBA+Moving+Logo+to+Back+of+Jerseys+as+Owners+Mull+Uniform+Ads&amp;rft.date=19+June+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.bloomberg.com%2Fnews%2F2014-06-19%2Fnba-moving-logo-to-back-of-jerseys-as-owners-mull-uniform-ads.html&amp;rft.pub=%27%27Bloomberg+L.P.%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><span class="citation web">Lukas, Paul (15 July 2014). <a rel="nofollow" class="external text" href="http://espn.go.com/nba/story/_/id/11219276/nba-jerseys-now-feature-gold-tabs-collars-indicate-teams-won-titles">"NBA jerseys to now feature gold tabs on collars to indicate teams that have won titles"</a>. <i><a href="/wiki/ESPN.com" title="ESPN.com">ESPN.com</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 July</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.aufirst=Paul&amp;rft.aulast=Lukas&amp;rft.au=Lukas%2C+Paul&amp;rft.btitle=NBA+jerseys+to+now+feature+gold+tabs+on+collars+to+indicate+teams+that+have+won+titles&amp;rft.date=15+July+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fespn.go.com%2Fnba%2Fstory%2F_%2Fid%2F11219276%2Fnba-jerseys-now-feature-gold-tabs-collars-indicate-teams-won-titles&amp;rft.pub=%27%27ESPN.com%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.zteusa.com/news-zteusa-announces-partnership-houston-rockets/">"ZTE USA Announces its First Corporate Partnership and Consumer Marketing Push in Conjunction with the Houston Rockets"</a>. <i><a href="/wiki/ZTE" title="ZTE">ZTE</a> USA</i>. October 5, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">December 24,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=ZTE+USA+Announces+its+First+Corporate+Partnership+and+Consumer+Marketing+Push+in+Conjunction+with+the+Houston+Rockets&amp;rft.date=October+5%2C+2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.zteusa.com%2Fnews-zteusa-announces-partnership-houston-rockets%2F&amp;rft.jtitle=ZTE+USA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.zteusa.com/news-zte-official-smartphone-knicks-rockets-warriors/">"ZTE now Official Smartphone Sponsor of New York Knicks, Houston Rockets and Golden State Warriors"</a>. <i><a href="/wiki/ZTE" title="ZTE">ZTE</a> USA</i>. October 27, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">December 24,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=ZTE+now+Official+Smartphone+Sponsor+of+New+York+Knicks%2C+Houston+Rockets+and+Golden+State+Warriors&amp;rft.date=October+27%2C+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.zteusa.com%2Fnews-zte-official-smartphone-knicks-rockets-warriors%2F&amp;rft.jtitle=ZTE+USA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.nba.com/magic/fanduel-joins-magic-champions-community-sponsor">"FanDuel Joins the Magic as a Champions of the Community Sponsor"</a>. <i>NBA.com</i>. August 19, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">December 24,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=FanDuel+Joins+the+Magic+as+a+Champions+of+the+Community+Sponsor&amp;rft.date=August+19%2C+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nba.com%2Fmagic%2Ffanduel-joins-magic-champions-community-sponsor&amp;rft.jtitle=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.nba.com/jazz/news/jazz-announce-united-fuel-supply-sponsor">"Jazz Announce United Fuel Supply as Sponsor"</a>. <i>NBA.com</i>. November 20, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">December 25,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Jazz+Announce+United+Fuel+Supply+as+Sponsor&amp;rft.date=November+20%2C+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nba.com%2Fjazz%2Fnews%2Fjazz-announce-united-fuel-supply-sponsor&amp;rft.jtitle=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.nba.com/games/20141111/SACDAL/gameinfo.html">"Nowitzki, Mavericks rally past Kings 106-98"</a>. <i>NBA.com</i>. November 11, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">November 12,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Nowitzki%2C+Mavericks+rally+past+Kings+106-98&amp;rft.date=November+11%2C+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nba.com%2Fgames%2F20141111%2FSACDAL%2Fgameinfo.html&amp;rft.jtitle=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://espn.go.com/los-angeles/nba/story/_/id/11862042/kobe-bryant-los-angeles-lakers-sets-nba-record-missed-field-goals">http://espn.go.com/los-angeles/nba/story/_/id/11862042/kobe-bryant-los-angeles-lakers-sets-nba-record-missed-field-goals</a></span></li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><span class="citation web">Rieken, Kristie (14 December 2014). <a rel="nofollow" class="external text" href="http://www.nba.com/games/20141213/DENHOU/gameinfo.html">"Howard, Harden lead Rockets over Nuggets, 108-96"</a>. <i>NBA.com</i>. Associated Press<span class="reference-accessdate">. Retrieved <span class="nowrap">1 January</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Howard%2C+Harden+lead+Rockets+over+Nuggets%2C+108-96&amp;rft.aufirst=Kristie&amp;rft.aulast=Rieken&amp;rft.au=Rieken%2C+Kristie&amp;rft.date=14+December+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nba.com%2Fgames%2F20141213%2FDENHOU%2Fgameinfo.html&amp;rft.jtitle=NBA.com&amp;rft.pub=Associated+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nba.com/2014/news/12/22/pistons-waive-josh-smith/index.html">"Pistons waive forward Josh Smith"</a>. <i>NBA.com</i>. December 22, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">December 22,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014%E2%80%9315+NBA+season&amp;rft.atitle=Pistons+waive+forward+Josh+Smith&amp;rft.date=December+22%2C+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nba.com%2F2014%2Fnews%2F12%2F22%2Fpistons-waive-josh-smith%2Findex.html&amp;rft.jtitle=NBA.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit&amp;section=25" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official website"><span class="url"><a rel="nofollow" class="external text" href="http://www.nba.com/">Official website</a></span></span></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:NBA_seasons" title="Template:NBA seasons"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:NBA_seasons" title="Template talk:NBA seasons"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:NBA_seasons&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/List_of_National_Basketball_Association_seasons" title="List of National Basketball Association seasons">NBA seasons</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1940s</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<table width="100%" cellpadding="0">
+<tr>
+<td width="10%"></td>
+<td width="10%"></td>
+<td width="10%"></td>
+<td width="10%"></td>
+<td width="10%"></td>
+<td width="10%"></td>
+<td width="10%"></td>
+<td width="10%"><a href="/wiki/1946%E2%80%9347_BAA_season" title="1946–47 BAA season">1946–47</a></td>
+<td width="10%"><a href="/wiki/1947%E2%80%9348_BAA_season" title="1947–48 BAA season">1947–48</a></td>
+<td width="10%"><a href="/wiki/1948%E2%80%9349_BAA_season" title="1948–49 BAA season">1948–49</a></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1950s</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<table width="100%" cellpadding="0">
+<tr>
+<td width="10%"><a href="/wiki/1949%E2%80%9350_NBA_season" title="1949–50 NBA season">1949–50</a></td>
+<td width="10%"><a href="/wiki/1950%E2%80%9351_NBA_season" title="1950–51 NBA season">1950–51</a></td>
+<td width="10%"><a href="/wiki/1951%E2%80%9352_NBA_season" title="1951–52 NBA season">1951–52</a></td>
+<td width="10%"><a href="/wiki/1952%E2%80%9353_NBA_season" title="1952–53 NBA season">1952–53</a></td>
+<td width="10%"><a href="/wiki/1953%E2%80%9354_NBA_season" title="1953–54 NBA season">1953–54</a></td>
+<td width="10%"><a href="/wiki/1954%E2%80%9355_NBA_season" title="1954–55 NBA season">1954–55</a></td>
+<td width="10%"><a href="/wiki/1955%E2%80%9356_NBA_season" title="1955–56 NBA season">1955–56</a></td>
+<td width="10%"><a href="/wiki/1956%E2%80%9357_NBA_season" title="1956–57 NBA season">1956–57</a></td>
+<td width="10%"><a href="/wiki/1957%E2%80%9358_NBA_season" title="1957–58 NBA season">1957–58</a></td>
+<td width="10%"><a href="/wiki/1958%E2%80%9359_NBA_season" title="1958–59 NBA season">1958–59</a></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1960s</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<table width="100%" cellpadding="0">
+<tr>
+<td width="10%"><a href="/wiki/1959%E2%80%9360_NBA_season" title="1959–60 NBA season">1959–60</a></td>
+<td width="10%"><a href="/wiki/1960%E2%80%9361_NBA_season" title="1960–61 NBA season">1960–61</a></td>
+<td width="10%"><a href="/wiki/1961%E2%80%9362_NBA_season" title="1961–62 NBA season">1961–62</a></td>
+<td width="10%"><a href="/wiki/1962%E2%80%9363_NBA_season" title="1962–63 NBA season">1962–63</a></td>
+<td width="10%"><a href="/wiki/1963%E2%80%9364_NBA_season" title="1963–64 NBA season">1963–64</a></td>
+<td width="10%"><a href="/wiki/1964%E2%80%9365_NBA_season" title="1964–65 NBA season">1964–65</a></td>
+<td width="10%"><a href="/wiki/1965%E2%80%9366_NBA_season" title="1965–66 NBA season">1965–66</a></td>
+<td width="10%"><a href="/wiki/1966%E2%80%9367_NBA_season" title="1966–67 NBA season">1966–67</a></td>
+<td width="10%"><a href="/wiki/1967%E2%80%9368_NBA_season" title="1967–68 NBA season">1967–68</a></td>
+<td width="10%"><a href="/wiki/1968%E2%80%9369_NBA_season" title="1968–69 NBA season">1968–69</a></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1970s</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<table width="100%" cellpadding="0">
+<tr>
+<td width="10%"><a href="/wiki/1969%E2%80%9370_NBA_season" title="1969–70 NBA season">1969–70</a></td>
+<td width="10%"><a href="/wiki/1970%E2%80%9371_NBA_season" title="1970–71 NBA season">1970–71</a></td>
+<td width="10%"><a href="/wiki/1971%E2%80%9372_NBA_season" title="1971–72 NBA season">1971–72</a></td>
+<td width="10%"><a href="/wiki/1972%E2%80%9373_NBA_season" title="1972–73 NBA season">1972–73</a></td>
+<td width="10%"><a href="/wiki/1973%E2%80%9374_NBA_season" title="1973–74 NBA season">1973–74</a></td>
+<td width="10%"><a href="/wiki/1974%E2%80%9375_NBA_season" title="1974–75 NBA season">1974–75</a></td>
+<td width="10%"><a href="/wiki/1975%E2%80%9376_NBA_season" title="1975–76 NBA season">1975–76</a></td>
+<td width="10%"><a href="/wiki/1976%E2%80%9377_NBA_season" title="1976–77 NBA season">1976–77</a></td>
+<td width="10%"><a href="/wiki/1977%E2%80%9378_NBA_season" title="1977–78 NBA season">1977–78</a></td>
+<td width="10%"><a href="/wiki/1978%E2%80%9379_NBA_season" title="1978–79 NBA season">1978–79</a></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1980s</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<table width="100%" cellpadding="0">
+<tr>
+<td width="10%"><a href="/wiki/1979%E2%80%9380_NBA_season" title="1979–80 NBA season">1979–80</a></td>
+<td width="10%"><a href="/wiki/1980%E2%80%9381_NBA_season" title="1980–81 NBA season">1980–81</a></td>
+<td width="10%"><a href="/wiki/1981%E2%80%9382_NBA_season" title="1981–82 NBA season">1981–82</a></td>
+<td width="10%"><a href="/wiki/1982%E2%80%9383_NBA_season" title="1982–83 NBA season">1982–83</a></td>
+<td width="10%"><a href="/wiki/1983%E2%80%9384_NBA_season" title="1983–84 NBA season">1983–84</a></td>
+<td width="10%"><a href="/wiki/1984%E2%80%9385_NBA_season" title="1984–85 NBA season">1984–85</a></td>
+<td width="10%"><a href="/wiki/1985%E2%80%9386_NBA_season" title="1985–86 NBA season">1985–86</a></td>
+<td width="10%"><a href="/wiki/1986%E2%80%9387_NBA_season" title="1986–87 NBA season">1986–87</a></td>
+<td width="10%"><a href="/wiki/1987%E2%80%9388_NBA_season" title="1987–88 NBA season">1987–88</a></td>
+<td width="10%"><a href="/wiki/1988%E2%80%9389_NBA_season" title="1988–89 NBA season">1988–89</a></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1990s</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<table width="100%" cellpadding="0">
+<tr>
+<td width="10%"><a href="/wiki/1989%E2%80%9390_NBA_season" title="1989–90 NBA season">1989–90</a></td>
+<td width="10%"><a href="/wiki/1990%E2%80%9391_NBA_season" title="1990–91 NBA season">1990–91</a></td>
+<td width="10%"><a href="/wiki/1991%E2%80%9392_NBA_season" title="1991–92 NBA season">1991–92</a></td>
+<td width="10%"><a href="/wiki/1992%E2%80%9393_NBA_season" title="1992–93 NBA season">1992–93</a></td>
+<td width="10%"><a href="/wiki/1993%E2%80%9394_NBA_season" title="1993–94 NBA season">1993–94</a></td>
+<td width="10%"><a href="/wiki/1994%E2%80%9395_NBA_season" title="1994–95 NBA season">1994–95</a></td>
+<td width="10%"><a href="/wiki/1995%E2%80%9396_NBA_season" title="1995–96 NBA season">1995–96</a></td>
+<td width="10%"><a href="/wiki/1996%E2%80%9397_NBA_season" title="1996–97 NBA season">1996–97</a></td>
+<td width="10%"><a href="/wiki/1997%E2%80%9398_NBA_season" title="1997–98 NBA season">1997–98</a></td>
+<td width="10%"><a href="/wiki/1998%E2%80%9399_NBA_season" title="1998–99 NBA season">1998–99</a></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2000s</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<table width="100%" cellpadding="0">
+<tr>
+<td width="10%"><a href="/wiki/1999%E2%80%932000_NBA_season" title="1999–2000 NBA season">1999–00</a></td>
+<td width="10%"><a href="/wiki/2000%E2%80%9301_NBA_season" title="2000–01 NBA season">2000–01</a></td>
+<td width="10%"><a href="/wiki/2001%E2%80%9302_NBA_season" title="2001–02 NBA season">2001–02</a></td>
+<td width="10%"><a href="/wiki/2002%E2%80%9303_NBA_season" title="2002–03 NBA season">2002–03</a></td>
+<td width="10%"><a href="/wiki/2003%E2%80%9304_NBA_season" title="2003–04 NBA season">2003–04</a></td>
+<td width="10%"><a href="/wiki/2004%E2%80%9305_NBA_season" title="2004–05 NBA season">2004–05</a></td>
+<td width="10%"><a href="/wiki/2005%E2%80%9306_NBA_season" title="2005–06 NBA season">2005–06</a></td>
+<td width="10%"><a href="/wiki/2006%E2%80%9307_NBA_season" title="2006–07 NBA season">2006–07</a></td>
+<td width="10%"><a href="/wiki/2007%E2%80%9308_NBA_season" title="2007–08 NBA season">2007–08</a></td>
+<td width="10%"><a href="/wiki/2008%E2%80%9309_NBA_season" title="2008–09 NBA season">2008–09</a></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2010s</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<table width="100%" cellpadding="0">
+<tr>
+<td width="10%"><a href="/wiki/2009%E2%80%9310_NBA_season" title="2009–10 NBA season">2009–10</a></td>
+<td width="10%"><a href="/wiki/2010%E2%80%9311_NBA_season" title="2010–11 NBA season">2010–11</a></td>
+<td width="10%"><a href="/wiki/2011%E2%80%9312_NBA_season" title="2011–12 NBA season">2011–12</a></td>
+<td width="10%"><a href="/wiki/2012%E2%80%9313_NBA_season" title="2012–13 NBA season">2012–13</a></td>
+<td width="10%"><a href="/wiki/2013%E2%80%9314_NBA_season" title="2013–14 NBA season">2013–14</a></td>
+<td width="10%"><strong class="selflink">2014–15</strong></td>
+<td width="10%"></td>
+<td width="10%"></td>
+<td width="10%"></td>
+<td width="10%"></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:2014%E2%80%9315_NBA_season_by_team" title="Template:2014–15 NBA season by team"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:2014%E2%80%9315_NBA_season_by_team" title="Template talk:2014–15 NBA season by team"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:2014%E2%80%9315_NBA_season_by_team&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><strong class="selflink">2014–15 NBA season</strong> by team</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/2014_NBA_draft" title="2014 NBA draft">Draft</a></li>
+<li><a href="/wiki/2014_NBA_Summer_League" title="2014 NBA Summer League">Summer League</a></li>
+<li><a href="/wiki/2015_NBA_All-Star_Game" title="2015 NBA All-Star Game">All-Star Game</a></li>
+<li><a href="/wiki/2015_NBA_Playoffs" title="2015 NBA Playoffs" class="mw-redirect">Playoffs</a></li>
+<li><a href="/wiki/2015_NBA_Finals" title="2015 NBA Finals" class="mw-redirect">Finals</a></li>
+<li><a href="/wiki/List_of_2014%E2%80%9315_NBA_season_transactions" title="List of 2014–15 NBA season transactions">Transactions</a></li>
+<li><a href="/wiki/2014%E2%80%9315_NBA_Development_League_season" title="2014–15 NBA Development League season">D-League</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:4em;text-align:center;background-color:#D0E7FF;color:#000000;"><a href="/wiki/Eastern_Conference_(NBA)" title="Eastern Conference (NBA)">Eastern</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:8em;text-align: center; background-color:#D0E7FF;color:#000000;"><a href="/wiki/Atlantic_Division_(NBA)" title="Atlantic Division (NBA)">Atlantic</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/2014%E2%80%9315_Boston_Celtics_season" title="2014–15 Boston Celtics season">Boston</a></li>
+<li><a href="/wiki/2014%E2%80%9315_Brooklyn_Nets_season" title="2014–15 Brooklyn Nets season">Brooklyn</a></li>
+<li><a href="/wiki/2014%E2%80%9315_New_York_Knicks_season" title="2014–15 New York Knicks season">New York</a></li>
+<li><a href="/wiki/2014%E2%80%9315_Philadelphia_76ers_season" title="2014–15 Philadelphia 76ers season">Philadelphia</a></li>
+<li><a href="/wiki/2014%E2%80%9315_Toronto_Raptors_season" title="2014–15 Toronto Raptors season">Toronto</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:8em;text-align: center; background-color:#D0E7FF;color:#000000;"><a href="/wiki/Central_Division_(NBA)" title="Central Division (NBA)">Central</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/2014%E2%80%9315_Chicago_Bulls_season" title="2014–15 Chicago Bulls season">Chicago</a></li>
+<li><a href="/wiki/2014%E2%80%9315_Cleveland_Cavaliers_season" title="2014–15 Cleveland Cavaliers season">Cleveland</a></li>
+<li><a href="/wiki/2014%E2%80%9315_Detroit_Pistons_season" title="2014–15 Detroit Pistons season">Detroit</a></li>
+<li><a href="/wiki/2014%E2%80%9315_Indiana_Pacers_season" title="2014–15 Indiana Pacers season">Indiana</a></li>
+<li><a href="/wiki/2014%E2%80%9315_Milwaukee_Bucks_season" title="2014–15 Milwaukee Bucks season">Milwaukee</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:8em;text-align: center; background-color:#D0E7FF;color:#000000;"><a href="/wiki/Southeast_Division_(NBA)" title="Southeast Division (NBA)">Southeast</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/2014%E2%80%9315_Atlanta_Hawks_season" title="2014–15 Atlanta Hawks season">Atlanta</a></li>
+<li><a href="/wiki/2014%E2%80%9315_Charlotte_Hornets_season" title="2014–15 Charlotte Hornets season">Charlotte</a></li>
+<li><a href="/wiki/2014%E2%80%9315_Miami_Heat_season" title="2014–15 Miami Heat season">Miami</a></li>
+<li><a href="/wiki/2014%E2%80%9315_Orlando_Magic_season" title="2014–15 Orlando Magic season">Orlando</a></li>
+<li><a href="/wiki/2014%E2%80%9315_Washington_Wizards_season" title="2014–15 Washington Wizards season">Washington</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:4em;text-align:center;background-color:#FFCCCC;color:#000000;"><a href="/wiki/Western_Conference_(NBA)" title="Western Conference (NBA)">Western</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:8em;text-align: center; background-color:#FFCCCC;color:#000000;"><a href="/wiki/Northwest_Division_(NBA)" title="Northwest Division (NBA)">Northwest</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/2014%E2%80%9315_Denver_Nuggets_season" title="2014–15 Denver Nuggets season">Denver</a></li>
+<li><a href="/wiki/2014%E2%80%9315_Minnesota_Timberwolves_season" title="2014–15 Minnesota Timberwolves season">Minnesota</a></li>
+<li><a href="/wiki/2014%E2%80%9315_Oklahoma_City_Thunder_season" title="2014–15 Oklahoma City Thunder season">Oklahoma City</a></li>
+<li><a href="/wiki/2014%E2%80%9315_Portland_Trail_Blazers_season" title="2014–15 Portland Trail Blazers season">Portland</a></li>
+<li><a href="/wiki/2014%E2%80%9315_Utah_Jazz_season" title="2014–15 Utah Jazz season">Utah</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:8em;text-align: center; background-color:#FFCCCC;color:#000000;"><a href="/wiki/Pacific_Division_(NBA)" title="Pacific Division (NBA)">Pacific</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/2014%E2%80%9315_Golden_State_Warriors_season" title="2014–15 Golden State Warriors season">Golden State</a></li>
+<li><a href="/wiki/2014%E2%80%9315_Los_Angeles_Clippers_season" title="2014–15 Los Angeles Clippers season">L.A. Clippers</a></li>
+<li><a href="/wiki/2014%E2%80%9315_Los_Angeles_Lakers_season" title="2014–15 Los Angeles Lakers season">L.A. Lakers</a></li>
+<li><a href="/wiki/2014%E2%80%9315_Phoenix_Suns_season" title="2014–15 Phoenix Suns season">Phoenix</a></li>
+<li><a href="/wiki/2014%E2%80%9315_Sacramento_Kings_season" title="2014–15 Sacramento Kings season">Sacramento</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:8em;text-align: center; background-color:#FFCCCC;color:#000000;"><a href="/wiki/Southwest_Division_(NBA)" title="Southwest Division (NBA)">Southwest</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/2014%E2%80%9315_Dallas_Mavericks_season" title="2014–15 Dallas Mavericks season">Dallas</a></li>
+<li><a href="/wiki/2014%E2%80%9315_Houston_Rockets_season" title="2014–15 Houston Rockets season">Houston</a></li>
+<li><a href="/wiki/2014%E2%80%9315_Memphis_Grizzlies_season" title="2014–15 Memphis Grizzlies season">Memphis</a></li>
+<li><a href="/wiki/2014%E2%80%9315_New_Orleans_Pelicans_season" title="2014–15 New Orleans Pelicans season">New Orleans</a></li>
+<li><a href="/wiki/2014%E2%80%9315_San_Antonio_Spurs_season" title="2014–15 San Antonio Spurs season">San Antonio</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1255
+CPU time usage: 1.052 seconds
+Real time usage: 1.170 seconds
+Preprocessor visited node count: 21040/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 266574/2097152 bytes
+Template argument size: 33405/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 9/500
+Lua time usage: 0.313/10.000 seconds
+Lua memory usage: 4.5 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  916.617      1 - -total
+ 44.15%  404.690      8 - Template:NBA_team_standings
+ 25.53%  233.981      4 - Template:2014–15_NBA_East_standings
+ 22.64%  207.533      1 - Template:Reflist
+ 19.77%  181.209     60 - Template:Winning_percentage
+ 19.41%  177.892      4 - Template:2014–15_NBA_West_standings
+ 14.93%  136.871     46 - Template:Cite_web
+ 14.79%  135.543     60 - Template:Str_right
+ 12.15%  111.410      4 - Template:Navbox
+ 10.89%   99.800      1 - Template:2014–15_NBA_Atlantic_standings
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:42319036-0!*!0!!en!4!* and timestamp 20150104151543 and revision id 640952529
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=2014–15_NBA_season&amp;oldid=640952529">http://en.wikipedia.org/w/index.php?title=2014–15_NBA_season&amp;oldid=640952529</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2014%E2%80%9315_NBA_season" title="Category:2014–15 NBA season">2014–15 NBA season</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Articles_lacking_sources_from_October_2014" title="Category:Articles lacking sources from October 2014">Articles lacking sources from October 2014</a></li><li><a href="/wiki/Category:All_articles_lacking_sources" title="Category:All articles lacking sources">All articles lacking sources</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=2014%E2%80%9315+NBA+season&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=2014%E2%80%9315+NBA+season" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/2014%E2%80%9315_NBA_season"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:2014%E2%80%9315_NBA_season"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/2014%E2%80%9315_NBA_season" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/2014%E2%80%9315_NBA_season" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/2014%E2%80%9315_NBA_season" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;oldid=640952529" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q16191100" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=2014%E2%80%9315_NBA_season&amp;id=640952529" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=2014%E2%80%9315+NBA+season">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=2014%E2%80%9315+NBA+season&amp;oldid=640952529&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=2014%E2%80%9315_NBA_season&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%9D%D0%91%D0%90_%D1%9E_%D1%81%D1%8D%D0%B7%D0%BE%D0%BD%D0%B5_2014%E2%80%942015_%D0%B3%D0%B0%D0%B4%D0%BE%D1%9E" title="НБА ў сэзоне 2014—2015 гадоў – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/NBA_2014/15" title="NBA 2014/15 – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Temporada_2014-15_de_la_NBA" title="Temporada 2014-15 de la NBA – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Saison_NBA_2014-2015" title="Saison NBA 2014-2015 – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/National_Basketball_Association_2014-2015" title="National Basketball Association 2014-2015 – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-lv"><a href="//lv.wikipedia.org/wiki/2014.%E2%80%942015._gada_NBA_sezona" title="2014.—2015. gada NBA sezona – Latvian" lang="lv" hreflang="lv">Latviešu</a></li>
+													<li class="interlanguage-link interwiki-mn"><a href="//mn.wikipedia.org/wiki/2014-2015_%D0%BE%D0%BD%D1%8B_%D0%9D%D0%91%D0%90-%D0%B3%D0%B8%D0%B9%D0%BD_%D1%83%D0%BB%D0%B8%D1%80%D0%B0%D0%BB" title="2014-2015 оны НБА-гийн улирал – Mongolian" lang="mn" hreflang="mn">Монгол</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Temporada_da_NBA_de_2014%E2%80%9315" title="Temporada da NBA de 2014–15 – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9D%D0%91%D0%90_%D0%B2_%D1%81%D0%B5%D0%B7%D0%BE%D0%BD%D0%B5_2014/2015" title="НБА в сезоне 2014/2015 – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/NBA-kausi_2014%E2%80%932015" title="NBA-kausi 2014–2015 – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/2014-15_NBA%E8%B3%BD%E5%AD%A3" title="2014-15 NBA賽季 – Chinese" lang="zh" hreflang="zh">中文</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q16191100#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 4 January 2015 at 15:15.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=2014%E2%80%9315_NBA_season&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf12/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":117,"wgHostname":"mw1030"});
+}</script>
+	</body>
+</html>
